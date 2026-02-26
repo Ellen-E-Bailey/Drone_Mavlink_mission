@@ -1,0 +1,7 @@
+pymavlink
+numpy
+matplotlib
+scipy
+geopy
+opencv-python
+git
