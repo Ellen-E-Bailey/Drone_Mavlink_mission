@@ -8,10 +8,11 @@ from pymavlink import mavutil
 
 
 # Start a connection listening on a USB port
+"""
 myport = 'COM4'
 mybaudrate = 9600
 connection = mavutil.mavlink_connection(myport,mybaudrate)
-
+"""
 # Start a connection listening on a UDP port
 #connection = mavutil.mavlink_connection('tcp:206.189.60.90:33999')
 
