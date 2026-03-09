@@ -18,10 +18,10 @@ connection = mavutil.mavlink_connection(myport,mybaudrate)
 
 #start a connection listening on RPi
 myport = '/dev/serial0'   # or '/dev/ttyAMA0'
-mybaudrate = 57600
+mybaudrate = 921600
 connection = mavutil.mavlink_connection(myport,mybaudrate)
 
-
+print("Connecting")
 # Wait for the first heartbeat
 #   This sets the system and component ID of remote system for the link
 connection.wait_heartbeat()
