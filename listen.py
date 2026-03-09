@@ -32,7 +32,7 @@ print("Heartbeat from system (system %u component %u)" % (connection.target_syst
 # Step 3: Retrieve and display MAVLink messages from the drone
 while True:
     # Fetch the next message
-    print("connected")
+    
     msg = connection.recv_match(type=['GLOBAL_POSITION_INT', 'ATTITUDE'], blocking=False)
     
     if msg is None:
