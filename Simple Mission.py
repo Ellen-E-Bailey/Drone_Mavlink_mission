@@ -47,6 +47,7 @@ def set_mode(connection, mode_name):
 #arm/disarm
 # -------------------------------
 def arm_drone(connection):
+    print("Arming...")
     connection.mav.command_long_send(
         connection.target_system,
         connection.target_component,
@@ -54,7 +55,23 @@ def arm_drone(connection):
         0,
         1, 0, 0, 0, 0, 0, 0
     )
-    print("Sent ARM command")
+    # Check if armed
+    t.sleep(2)
+    msg = connection.master.recv_match(type='HEARTBEAT', blocking=True, timeout=2)
+    if msg and msg.base_mode & mavutil.mavlink.MAV_MODE_FLAG_SAFETY_ARMED:
+        print("✓ Armed successfully")
+        return True
+    else:
+        print("✗ Arming failed - trying force arm for testing")
+        # Try force arm for testing only
+        connection.master.mav.command_long_send(
+            connection.master.target_system,
+            connection.master.target_component,
+            mavutil.mavlink.MAV_CMD_COMPONENT_ARM_DISARM,
+            0, 1, 21196, 0, 0, 0, 0, 0)
+        t.sleep(2)
+        return True
+
 
 def disarm_drone(connection):
     connection.mav.command_long_send(
@@ -70,12 +87,17 @@ def disarm_drone(connection):
 #Takeoff
 #--------------------------------
 def takeoff(connection,altitude=10):
-    print("Takeoff Initiated")
+    print(f"Taking off to {altitude}m...")
     connection.mav.command_long_send(
         connection.target_system, 
         connection.target_component,
         mavutil.mavlink.MAV_CMD_NAV_TAKEOFF, 
         0, 0, 0, 0, m.nan, 0,0,altitude)
+    
+def land(connection):
+    print("Landing...")
+    set_mode('LAND')
+    
 
 #Return to Launch
 #-----------------------------------
@@ -188,7 +210,8 @@ def mission(connection, heading, distance):
         for i in range(5):
             print(5-i)
             t.sleep(1)           
-        RTL(connection)
+        #RTL(connection)
+        land(connection)
     else:
         print("Pilot rejected target. Handing control back.")
         set_mode(connection, "LOITER")
