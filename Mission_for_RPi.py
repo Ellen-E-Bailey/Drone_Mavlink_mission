@@ -11,7 +11,9 @@ import time as t
 
 
 def connect():
-    connection = mavutil.mavlink_connection('udpin:0.0.0.0:14550')
+    myport = '/dev/serial0'   # or '/dev/ttyAMA0'
+    mybaudrate = 921600
+    connection = mavutil.mavlink_connection(myport,mybaudrate)
     print("Waiting for heartbeat...")
     connection.wait_heartbeat()
     print(f"Heartbeat from system {connection.target_system}, component {connection.target_component}")
