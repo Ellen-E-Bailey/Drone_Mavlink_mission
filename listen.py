@@ -33,7 +33,7 @@ print("Heartbeat from system (system %u component %u)" % (connection.target_syst
 while True:
     # Fetch the next message
     msg = connection.recv_match(type=['GLOBAL_POSITION_INT', 'ATTITUDE'], blocking=True)
-    
+    print("connected")
     if msg is None:
         continue
 
