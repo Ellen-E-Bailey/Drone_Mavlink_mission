@@ -56,7 +56,7 @@ def arm_drone(connection):
     )
     # Check if armed
     t.sleep(2)
-    msg = connection.master.recv_match(type='HEARTBEAT', blocking=True, timeout=2)
+    msg = connection.recv_match(type='HEARTBEAT', blocking=True, timeout=2)
     if msg and msg.base_mode & mavutil.mavlink.MAV_MODE_FLAG_SAFETY_ARMED:
         print("✓ Armed successfully")
         return True
