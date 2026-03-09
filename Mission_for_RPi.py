@@ -63,9 +63,9 @@ def arm_drone(connection):
     else:
         print("✗ Arming failed - trying force arm for testing")
         # Try force arm for testing only
-        connection.master.mav.command_long_send(
-            connection.master.target_system,
-            connection.master.target_component,
+        connection.mav.command_long_send(
+            connection.target_system,
+            connection.target_component,
             mavutil.mavlink.MAV_CMD_COMPONENT_ARM_DISARM,
             0, 1, 21196, 0, 0, 0, 0, 0)
         t.sleep(2)
