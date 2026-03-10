@@ -19,7 +19,7 @@ connection.wait_heartbeat()
 print(f"Heartbeat from system {connection.target_system}, component {connection.target_component}")
 
 #---Log file---
-log_filename = f"mavlog_{datetime.now().strftime('%Y%m%d_%H%M%S')}.csv"
+log_filename = f"logs/mavlog_{datetime.now().strftime('%Y%m%d_%H%M%S')}.csv"
 
 with open(log_filename, mode='w', newline='') as logfile:
     writer = csv.writer(logfile)
