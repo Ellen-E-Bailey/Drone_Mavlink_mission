@@ -1654,3 +1654,3159 @@ Global Position: Lat=0.0, Lon=0.0, Alt=2.64 m
 Battery: 0.23 V, -0.01 A, -1%
 Throttle: 0
 Attitude: Roll=-0.009336689487099648, Pitch=-0.010680276900529861, Yaw=-0.3756488859653473
+Global Position: Lat=0.0, Lon=0.0, Alt=2.49 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009343248791992664, Pitch=-0.010710529051721096, Yaw=-0.3757604658603668
+Global Position: Lat=0.0, Lon=0.0, Alt=2.26 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00933881476521492, Pitch=-0.010722419247031212, Yaw=-0.37587064504623413
+Global Position: Lat=0.0, Lon=0.0, Alt=2.63 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009279103949666023, Pitch=-0.01069958508014679, Yaw=-0.3759898841381073
+Global Position: Lat=0.0, Lon=0.0, Alt=2.44 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009300598874688148, Pitch=-0.010703070089221, Yaw=-0.37604641914367676
+Global Position: Lat=0.0, Lon=0.0, Alt=2.59 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00930800847709179, Pitch=-0.010727904736995697, Yaw=-0.3761461079120636
+Global Position: Lat=0.0, Lon=0.0, Alt=2.68 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009337007999420166, Pitch=-0.010758289135992527, Yaw=-0.3762344717979431
+Global Position: Lat=0.0, Lon=0.0, Alt=2.44 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009361198171973228, Pitch=-0.010780819691717625, Yaw=-0.37630704045295715
+Global Position: Lat=0.0, Lon=0.0, Alt=2.59 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009346719831228256, Pitch=-0.01079578697681427, Yaw=-0.3764093816280365
+Global Position: Lat=0.0, Lon=0.0, Alt=2.34 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009357762522995472, Pitch=-0.010815919376909733, Yaw=-0.3765212297439575
+Global Position: Lat=0.0, Lon=0.0, Alt=2.58 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00932328775525093, Pitch=-0.010819538496434689, Yaw=-0.37664568424224854
+Global Position: Lat=0.0, Lon=0.0, Alt=2.31 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009282438084483147, Pitch=-0.010810034349560738, Yaw=-0.37672707438468933
+Global Position: Lat=0.0, Lon=0.0, Alt=2.54 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009287858381867409, Pitch=-0.010827050544321537, Yaw=-0.3768151104450226
+Global Position: Lat=0.0, Lon=0.0, Alt=2.32 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00927653070539236, Pitch=-0.010788454674184322, Yaw=-0.376973956823349
+Global Position: Lat=0.0, Lon=0.0, Alt=2.49 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00928492657840252, Pitch=-0.010861466638743877, Yaw=-0.37708112597465515
+Global Position: Lat=0.0, Lon=0.0, Alt=2.46 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009243002161383629, Pitch=-0.010884174145758152, Yaw=-0.3772128224372864
+Global Position: Lat=0.0, Lon=0.0, Alt=2.48 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009247986599802971, Pitch=-0.010916216298937798, Yaw=-0.37732943892478943
+Global Position: Lat=0.0, Lon=0.0, Alt=2.39 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00924448762089014, Pitch=-0.010904904454946518, Yaw=-0.3774471580982208
+Global Position: Lat=0.0, Lon=0.0, Alt=2.36 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009229657240211964, Pitch=-0.010904849506914616, Yaw=-0.37755048274993896
+Global Position: Lat=0.0, Lon=0.0, Alt=2.52 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009219649247825146, Pitch=-0.010936461389064789, Yaw=-0.37765905261039734
+Global Position: Lat=0.0, Lon=0.0, Alt=2.71 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009228653274476528, Pitch=-0.010936961509287357, Yaw=-0.3777644634246826
+Global Position: Lat=0.0, Lon=0.0, Alt=2.57 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009203098714351654, Pitch=-0.010931783355772495, Yaw=-0.3778606951236725
+Global Position: Lat=0.0, Lon=0.0, Alt=2.49 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009231464937329292, Pitch=-0.010967590846121311, Yaw=-0.37795308232307434
+Global Position: Lat=0.0, Lon=0.0, Alt=2.42 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009241853840649128, Pitch=-0.010988819412887096, Yaw=-0.3780788481235504
+Global Position: Lat=0.0, Lon=0.0, Alt=2.38 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009215640835464, Pitch=-0.011003722436726093, Yaw=-0.37818443775177
+Global Position: Lat=0.0, Lon=0.0, Alt=2.34 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009178766049444675, Pitch=-0.011029626242816448, Yaw=-0.3783009648323059
+Global Position: Lat=0.0, Lon=0.0, Alt=2.46 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009182142093777657, Pitch=-0.011063316836953163, Yaw=-0.37844333052635193
+Global Position: Lat=0.0, Lon=0.0, Alt=2.63 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00920353177934885, Pitch=-0.011062055826187134, Yaw=-0.378584086894989
+Global Position: Lat=0.0, Lon=0.0, Alt=2.59 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009171735495328903, Pitch=-0.011061770841479301, Yaw=-0.3787199854850769
+Global Position: Lat=0.0, Lon=0.0, Alt=2.55 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009172679856419563, Pitch=-0.011082815937697887, Yaw=-0.37883704900741577
+Global Position: Lat=0.0, Lon=0.0, Alt=2.69 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009183711372315884, Pitch=-0.011094877496361732, Yaw=-0.3789628744125366
+Global Position: Lat=0.0, Lon=0.0, Alt=2.47 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009191690944135189, Pitch=-0.011109896004199982, Yaw=-0.37905338406562805
+Global Position: Lat=0.0, Lon=0.0, Alt=2.64 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00921124592423439, Pitch=-0.01111855823546648, Yaw=-0.3791705369949341
+Global Position: Lat=0.0, Lon=0.0, Alt=2.71 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00921557191759348, Pitch=-0.011138629168272018, Yaw=-0.37927284836769104
+Global Position: Lat=0.0, Lon=0.0, Alt=2.54 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009217924438416958, Pitch=-0.011135203763842583, Yaw=-0.3794177770614624
+Global Position: Lat=0.0, Lon=0.0, Alt=2.48 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009214967489242554, Pitch=-0.011112704873085022, Yaw=-0.3795427978038788
+Global Position: Lat=0.0, Lon=0.0, Alt=2.59 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009231436997652054, Pitch=-0.01112285628914833, Yaw=-0.3796602785587311
+Global Position: Lat=0.0, Lon=0.0, Alt=2.56 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00925065204501152, Pitch=-0.011147065088152885, Yaw=-0.37980878353118896
+Global Position: Lat=0.0, Lon=0.0, Alt=2.49 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00923642236739397, Pitch=-0.011178264394402504, Yaw=-0.3799365162849426
+Global Position: Lat=0.0, Lon=0.0, Alt=2.51 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009222781285643578, Pitch=-0.011175433173775673, Yaw=-0.3800637423992157
+Global Position: Lat=0.0, Lon=0.0, Alt=2.62 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00922558642923832, Pitch=-0.011208080686628819, Yaw=-0.3801476061344147
+Global Position: Lat=0.0, Lon=0.0, Alt=2.61 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009221198037266731, Pitch=-0.011176100000739098, Yaw=-0.38022342324256897
+Global Position: Lat=0.0, Lon=0.0, Alt=2.86 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009241612628102303, Pitch=-0.01120070181787014, Yaw=-0.3803239166736603
+Global Position: Lat=0.0, Lon=0.0, Alt=2.58 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00922203715890646, Pitch=-0.011169299483299255, Yaw=-0.3804675340652466
+Global Position: Lat=0.0, Lon=0.0, Alt=2.66 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009214481338858604, Pitch=-0.011212628334760666, Yaw=-0.38056930899620056
+Global Position: Lat=0.0, Lon=0.0, Alt=2.55 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009243438951671124, Pitch=-0.011193642392754555, Yaw=-0.3806953430175781
+Global Position: Lat=0.0, Lon=0.0, Alt=2.54 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009251434355974197, Pitch=-0.011205093935132027, Yaw=-0.3808120787143707
+Global Position: Lat=0.0, Lon=0.0, Alt=2.74 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009294209070503712, Pitch=-0.01121523231267929, Yaw=-0.3809160888195038
+Global Position: Lat=0.0, Lon=0.0, Alt=2.3 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009314385242760181, Pitch=-0.01121947355568409, Yaw=-0.38102683424949646
+Global Position: Lat=0.0, Lon=0.0, Alt=2.64 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009333934634923935, Pitch=-0.01123964972794056, Yaw=-0.3811142146587372
+Global Position: Lat=0.0, Lon=0.0, Alt=2.8 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009332215413451195, Pitch=-0.011241602711379528, Yaw=-0.38120898604393005
+Global Position: Lat=0.0, Lon=0.0, Alt=2.64 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009297540411353111, Pitch=-0.011227789334952831, Yaw=-0.38132110238075256
+Global Position: Lat=0.0, Lon=0.0, Alt=2.69 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009342455305159092, Pitch=-0.011210920289158821, Yaw=-0.3814362585544586
+Global Position: Lat=0.0, Lon=0.0, Alt=2.59 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009373025968670845, Pitch=-0.011234910227358341, Yaw=-0.38154008984565735
+Global Position: Lat=0.0, Lon=0.0, Alt=2.69 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009363762103021145, Pitch=-0.011248482391238213, Yaw=-0.38166704773902893
+Global Position: Lat=0.0, Lon=0.0, Alt=2.43 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00932302139699459, Pitch=-0.011232424527406693, Yaw=-0.38177645206451416
+Global Position: Lat=0.0, Lon=0.0, Alt=2.58 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00932872761040926, Pitch=-0.011159666813910007, Yaw=-0.38187992572784424
+Global Position: Lat=0.0, Lon=0.0, Alt=2.27 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009305568411946297, Pitch=-0.011130310595035553, Yaw=-0.38198456168174744
+Global Position: Lat=0.0, Lon=0.0, Alt=2.46 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009286141954362392, Pitch=-0.011143050156533718, Yaw=-0.38206782937049866
+Global Position: Lat=0.0, Lon=0.0, Alt=2.42 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009297250770032406, Pitch=-0.011148151941597462, Yaw=-0.38217803835868835
+Global Position: Lat=0.0, Lon=0.0, Alt=2.82 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009312545880675316, Pitch=-0.011152837425470352, Yaw=-0.38225674629211426
+Global Position: Lat=0.0, Lon=0.0, Alt=2.56 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00931337010115385, Pitch=-0.011150172911584377, Yaw=-0.3823651373386383
+Global Position: Lat=0.0, Lon=0.0, Alt=2.64 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009327269159257412, Pitch=-0.01116147916764021, Yaw=-0.38247719407081604
+Global Position: Lat=0.0, Lon=0.0, Alt=2.46 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009318393655121326, Pitch=-0.011144353076815605, Yaw=-0.3825639486312866
+Global Position: Lat=0.0, Lon=0.0, Alt=2.71 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009269488975405693, Pitch=-0.011178098618984222, Yaw=-0.3826984167098999
+Global Position: Lat=0.0, Lon=0.0, Alt=2.64 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009255552664399147, Pitch=-0.01115883607417345, Yaw=-0.3828010857105255
+Global Position: Lat=0.0, Lon=0.0, Alt=2.59 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00926513783633709, Pitch=-0.011156393215060234, Yaw=-0.38291266560554504
+Global Position: Lat=0.0, Lon=0.0, Alt=2.59 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009245099499821663, Pitch=-0.011116283014416695, Yaw=-0.3830178678035736
+Global Position: Lat=0.0, Lon=0.0, Alt=2.35 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.0092390151694417, Pitch=-0.011085244826972485, Yaw=-0.3830982446670532
+Global Position: Lat=0.0, Lon=0.0, Alt=2.69 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009252429008483887, Pitch=-0.01108514703810215, Yaw=-0.38318318128585815
+Global Position: Lat=0.0, Lon=0.0, Alt=2.61 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009280228056013584, Pitch=-0.011121900752186775, Yaw=-0.3832743167877197
+Global Position: Lat=0.0, Lon=0.0, Alt=2.45 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009336370974779129, Pitch=-0.011086166836321354, Yaw=-0.38335657119750977
+Global Position: Lat=0.0, Lon=0.0, Alt=2.68 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009369533509016037, Pitch=-0.011070833541452885, Yaw=-0.38345471024513245
+Global Position: Lat=0.0, Lon=0.0, Alt=2.89 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009387538768351078, Pitch=-0.01106010191142559, Yaw=-0.3835837244987488
+Global Position: Lat=0.0, Lon=0.0, Alt=2.38 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009354334324598312, Pitch=-0.011060727760195732, Yaw=-0.38367119431495667
+Global Position: Lat=0.0, Lon=0.0, Alt=2.69 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009338784962892532, Pitch=-0.011045200750231743, Yaw=-0.3837648034095764
+Global Position: Lat=0.0, Lon=0.0, Alt=2.42 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009343033656477928, Pitch=-0.011041393503546715, Yaw=-0.3838728666305542
+Global Position: Lat=0.0, Lon=0.0, Alt=2.51 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009376882575452328, Pitch=-0.01104481890797615, Yaw=-0.38398832082748413
+Global Position: Lat=0.0, Lon=0.0, Alt=2.59 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009383462369441986, Pitch=-0.01107617374509573, Yaw=-0.38407981395721436
+Global Position: Lat=0.0, Lon=0.0, Alt=2.58 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009363175369799137, Pitch=-0.01107207965105772, Yaw=-0.38420119881629944
+Global Position: Lat=0.0, Lon=0.0, Alt=2.42 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009394016116857529, Pitch=-0.011092551983892918, Yaw=-0.38431084156036377
+Global Position: Lat=0.0, Lon=0.0, Alt=2.56 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009405607357621193, Pitch=-0.011091891676187515, Yaw=-0.38443076610565186
+Global Position: Lat=0.0, Lon=0.0, Alt=2.6 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009409187361598015, Pitch=-0.011131278239190578, Yaw=-0.38455039262771606
+Global Position: Lat=0.0, Lon=0.0, Alt=2.62 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00940503366291523, Pitch=-0.011154629290103912, Yaw=-0.38466259837150574
+Global Position: Lat=0.0, Lon=0.0, Alt=2.4 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00942240934818983, Pitch=-0.011162849143147469, Yaw=-0.38478079438209534
+Global Position: Lat=0.0, Lon=0.0, Alt=2.51 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00942920334637165, Pitch=-0.011179154738783836, Yaw=-0.3848848044872284
+Global Position: Lat=0.0, Lon=0.0, Alt=2.93 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009433801285922527, Pitch=-0.011157878674566746, Yaw=-0.38496771454811096
+Global Position: Lat=0.0, Lon=0.0, Alt=2.66 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009409916587173939, Pitch=-0.011128222569823265, Yaw=-0.38504528999328613
+Global Position: Lat=0.0, Lon=0.0, Alt=2.58 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009381071664392948, Pitch=-0.011157803237438202, Yaw=-0.3851575553417206
+Global Position: Lat=0.0, Lon=0.0, Alt=2.41 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009335375390946865, Pitch=-0.011143646202981472, Yaw=-0.3852591812610626
+Global Position: Lat=0.0, Lon=0.0, Alt=2.81 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009347982704639435, Pitch=-0.011139662936329842, Yaw=-0.38534626364707947
+Global Position: Lat=0.0, Lon=0.0, Alt=2.89 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009359673596918583, Pitch=-0.011168545112013817, Yaw=-0.3854464292526245
+Global Position: Lat=0.0, Lon=0.0, Alt=2.56 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009358879178762436, Pitch=-0.01118647400289774, Yaw=-0.38556230068206787
+Global Position: Lat=0.0, Lon=0.0, Alt=2.85 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009357227012515068, Pitch=-0.011221010237932205, Yaw=-0.3856683075428009
+Global Position: Lat=0.0, Lon=0.0, Alt=2.57 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00938404444605112, Pitch=-0.011233835481107235, Yaw=-0.3857673108577728
+Global Position: Lat=0.0, Lon=0.0, Alt=2.82 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009396509267389774, Pitch=-0.011254951357841492, Yaw=-0.38585251569747925
+Global Position: Lat=0.0, Lon=0.0, Alt=2.73 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009395173750817776, Pitch=-0.011266214773058891, Yaw=-0.3859195411205292
+Global Position: Lat=0.0, Lon=0.0, Alt=2.79 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009396168403327465, Pitch=-0.011266215704381466, Yaw=-0.3860061764717102
+Global Position: Lat=0.0, Lon=0.0, Alt=2.66 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009386802092194557, Pitch=-0.011282989755272865, Yaw=-0.38616034388542175
+Global Position: Lat=0.0, Lon=0.0, Alt=2.45 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009381888434290886, Pitch=-0.011314649134874344, Yaw=-0.3862776756286621
+Global Position: Lat=0.0, Lon=0.0, Alt=2.72 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00933765061199665, Pitch=-0.011270996183156967, Yaw=-0.3863963186740875
+Global Position: Lat=0.0, Lon=0.0, Alt=2.68 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009321256540715694, Pitch=-0.011290282011032104, Yaw=-0.38649582862854004
+Global Position: Lat=0.0, Lon=0.0, Alt=2.75 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009308570995926857, Pitch=-0.011284815147519112, Yaw=-0.3866358697414398
+Global Position: Lat=0.0, Lon=0.0, Alt=2.57 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009331165812909603, Pitch=-0.011284003034234047, Yaw=-0.38674843311309814
+Global Position: Lat=0.0, Lon=0.0, Alt=2.7 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009357757866382599, Pitch=-0.011274877935647964, Yaw=-0.38684722781181335
+Global Position: Lat=0.0, Lon=0.0, Alt=2.74 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009360992349684238, Pitch=-0.011300493031740189, Yaw=-0.3869524896144867
+Global Position: Lat=0.0, Lon=0.0, Alt=2.73 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009382525458931923, Pitch=-0.011271866038441658, Yaw=-0.3870774507522583
+Global Position: Lat=0.0, Lon=0.0, Alt=2.75 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009362404234707355, Pitch=-0.011275215074419975, Yaw=-0.3872166574001312
+Global Position: Lat=0.0, Lon=0.0, Alt=2.76 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009390187449753284, Pitch=-0.011292831040918827, Yaw=-0.3873080909252167
+Global Position: Lat=0.0, Lon=0.0, Alt=2.65 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009370360523462296, Pitch=-0.011278674006462097, Yaw=-0.387422651052475
+Global Position: Lat=0.0, Lon=0.0, Alt=2.82 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00936549250036478, Pitch=-0.011247876100242138, Yaw=-0.38748398423194885
+Global Position: Lat=0.0, Lon=0.0, Alt=2.72 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00935694295912981, Pitch=-0.011279447004199028, Yaw=-0.3875909447669983
+Global Position: Lat=0.0, Lon=0.0, Alt=2.76 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.0093816127628088, Pitch=-0.01126845646649599, Yaw=-0.38770878314971924
+Global Position: Lat=0.0, Lon=0.0, Alt=2.31 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009406859055161476, Pitch=-0.011292219161987305, Yaw=-0.3877929747104645
+Global Position: Lat=0.0, Lon=0.0, Alt=2.85 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009409432299435139, Pitch=-0.011291326023638248, Yaw=-0.38788729906082153
+Global Position: Lat=0.0, Lon=0.0, Alt=2.56 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009419772773981094, Pitch=-0.011294524185359478, Yaw=-0.38799262046813965
+Global Position: Lat=0.0, Lon=0.0, Alt=2.49 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009420493617653847, Pitch=-0.01130770705640316, Yaw=-0.388116717338562
+Global Position: Lat=0.0, Lon=0.0, Alt=2.82 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009409678168594837, Pitch=-0.011299638077616692, Yaw=-0.3882841169834137
+Global Position: Lat=0.0, Lon=0.0, Alt=2.81 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009373416192829609, Pitch=-0.01129019446671009, Yaw=-0.3884057104587555
+Global Position: Lat=0.0, Lon=0.0, Alt=2.74 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009394055232405663, Pitch=-0.011293165385723114, Yaw=-0.38852107524871826
+Global Position: Lat=0.0, Lon=0.0, Alt=2.51 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009378119371831417, Pitch=-0.011309030465781689, Yaw=-0.3886619806289673
+Global Position: Lat=0.0, Lon=0.0, Alt=2.81 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009385856799781322, Pitch=-0.011318492703139782, Yaw=-0.38880059123039246
+Global Position: Lat=0.0, Lon=0.0, Alt=2.6 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009395821020007133, Pitch=-0.011316679418087006, Yaw=-0.3889071047306061
+Global Position: Lat=0.0, Lon=0.0, Alt=2.65 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00938868522644043, Pitch=-0.01127162016928196, Yaw=-0.38905206322669983
+Global Position: Lat=0.0, Lon=0.0, Alt=2.73 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009390990249812603, Pitch=-0.011281823739409447, Yaw=-0.3891964256763458
+Global Position: Lat=0.0, Lon=0.0, Alt=2.6 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009397526271641254, Pitch=-0.01129605621099472, Yaw=-0.38932567834854126
+Global Position: Lat=0.0, Lon=0.0, Alt=2.49 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009362857788801193, Pitch=-0.01132366806268692, Yaw=-0.38942864537239075
+Global Position: Lat=0.0, Lon=0.0, Alt=2.44 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009322606958448887, Pitch=-0.01130471657961607, Yaw=-0.3895370066165924
+Global Position: Lat=0.0, Lon=0.0, Alt=2.77 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009327052161097527, Pitch=-0.011312220245599747, Yaw=-0.3896084427833557
+Global Position: Lat=0.0, Lon=0.0, Alt=2.64 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00935511663556099, Pitch=-0.0112988306209445, Yaw=-0.38972437381744385
+Global Position: Lat=0.0, Lon=0.0, Alt=2.45 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009369168430566788, Pitch=-0.011335530318319798, Yaw=-0.3898058235645294
+Global Position: Lat=0.0, Lon=0.0, Alt=2.67 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009397548623383045, Pitch=-0.011339599266648293, Yaw=-0.3899203836917877
+Global Position: Lat=0.0, Lon=0.0, Alt=2.58 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009389190003275871, Pitch=-0.011348700150847435, Yaw=-0.3899972140789032
+Global Position: Lat=0.0, Lon=0.0, Alt=2.78 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009373174980282784, Pitch=-0.011371413245797157, Yaw=-0.3901136815547943
+Global Position: Lat=0.0, Lon=0.0, Alt=2.5 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009383559226989746, Pitch=-0.011381760239601135, Yaw=-0.39020007848739624
+Global Position: Lat=0.0, Lon=0.0, Alt=2.61 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.0093812495470047, Pitch=-0.011407298035919666, Yaw=-0.39029091596603394
+Global Position: Lat=0.0, Lon=0.0, Alt=2.71 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009379709139466286, Pitch=-0.011402596719563007, Yaw=-0.3903793692588806
+Global Position: Lat=0.0, Lon=0.0, Alt=2.73 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009359457530081272, Pitch=-0.011389929801225662, Yaw=-0.3904961347579956
+Global Position: Lat=0.0, Lon=0.0, Alt=2.72 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009350571781396866, Pitch=-0.011414390988647938, Yaw=-0.39060482382774353
+Global Position: Lat=0.0, Lon=0.0, Alt=2.53 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009350757114589214, Pitch=-0.011378946714103222, Yaw=-0.3906944692134857
+Global Position: Lat=0.0, Lon=0.0, Alt=2.54 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00934989470988512, Pitch=-0.011385275982320309, Yaw=-0.39079755544662476
+Global Position: Lat=0.0, Lon=0.0, Alt=2.57 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009343652985990047, Pitch=-0.01136100385338068, Yaw=-0.39091286063194275
+Global Position: Lat=0.0, Lon=0.0, Alt=2.87 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009335024282336235, Pitch=-0.011356626637279987, Yaw=-0.39104166626930237
+Global Position: Lat=0.0, Lon=0.0, Alt=2.58 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009332782588899136, Pitch=-0.011386145837605, Yaw=-0.3911275863647461
+Global Position: Lat=0.0, Lon=0.0, Alt=2.83 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.0093320207670331, Pitch=-0.011432449333369732, Yaw=-0.3912368714809418
+Global Position: Lat=0.0, Lon=0.0, Alt=2.73 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009334174916148186, Pitch=-0.011443771421909332, Yaw=-0.3913276791572571
+Global Position: Lat=0.0, Lon=0.0, Alt=2.54 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009346457198262215, Pitch=-0.011468874290585518, Yaw=-0.3914244472980499
+Global Position: Lat=0.0, Lon=0.0, Alt=2.52 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009291713126003742, Pitch=-0.011438056826591492, Yaw=-0.39154547452926636
+Global Position: Lat=0.0, Lon=0.0, Alt=2.86 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009272044524550438, Pitch=-0.011445113457739353, Yaw=-0.3916447162628174
+Global Position: Lat=0.0, Lon=0.0, Alt=2.77 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00929035060107708, Pitch=-0.011438785120844841, Yaw=-0.3917505443096161
+Global Position: Lat=0.0, Lon=0.0, Alt=2.72 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009289001114666462, Pitch=-0.011470435187220573, Yaw=-0.39185047149658203
+Global Position: Lat=0.0, Lon=0.0, Alt=2.6 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009311217814683914, Pitch=-0.011458028107881546, Yaw=-0.3919280767440796
+Global Position: Lat=0.0, Lon=0.0, Alt=2.41 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009292877279222012, Pitch=-0.011459390632808208, Yaw=-0.3920515477657318
+Global Position: Lat=0.0, Lon=0.0, Alt=2.76 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009281439706683159, Pitch=-0.011438238434493542, Yaw=-0.3921438157558441
+Global Position: Lat=0.0, Lon=0.0, Alt=2.75 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009255073964595795, Pitch=-0.011426879093050957, Yaw=-0.39223214983940125
+Global Position: Lat=0.0, Lon=0.0, Alt=2.84 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009269338101148605, Pitch=-0.01141429040580988, Yaw=-0.39232537150382996
+Global Position: Lat=0.0, Lon=0.0, Alt=2.5 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009237170219421387, Pitch=-0.011408353224396706, Yaw=-0.39244967699050903
+Global Position: Lat=0.0, Lon=0.0, Alt=2.67 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009220931679010391, Pitch=-0.011404039338231087, Yaw=-0.3925343453884125
+Global Position: Lat=0.0, Lon=0.0, Alt=2.72 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009226817637681961, Pitch=-0.011403162032365799, Yaw=-0.3926182985305786
+Global Position: Lat=0.0, Lon=0.0, Alt=2.74 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009240365587174892, Pitch=-0.011408351361751556, Yaw=-0.3927202820777893
+Global Position: Lat=0.0, Lon=0.0, Alt=2.55 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00925037357956171, Pitch=-0.011409394443035126, Yaw=-0.3928229808807373
+Global Position: Lat=0.0, Lon=0.0, Alt=2.66 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009266549721360207, Pitch=-0.011394417844712734, Yaw=-0.39291852712631226
+Global Position: Lat=0.0, Lon=0.0, Alt=3.08 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009283622726798058, Pitch=-0.011387968435883522, Yaw=-0.39301982522010803
+Global Position: Lat=0.0, Lon=0.0, Alt=3.06 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009297188371419907, Pitch=-0.011350276879966259, Yaw=-0.3931252658367157
+Global Position: Lat=0.0, Lon=0.0, Alt=2.56 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00929948315024376, Pitch=-0.011327982880175114, Yaw=-0.3932437598705292
+Global Position: Lat=0.0, Lon=0.0, Alt=2.76 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009292329661548138, Pitch=-0.011319849640130997, Yaw=-0.3933482766151428
+Global Position: Lat=0.0, Lon=0.0, Alt=2.53 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009278637357056141, Pitch=-0.011343455873429775, Yaw=-0.3934488296508789
+Global Position: Lat=0.0, Lon=0.0, Alt=2.61 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00931556522846222, Pitch=-0.011364643462002277, Yaw=-0.3935532867908478
+Global Position: Lat=0.0, Lon=0.0, Alt=2.64 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009304067119956017, Pitch=-0.011318491771817207, Yaw=-0.3936713933944702
+Global Position: Lat=0.0, Lon=0.0, Alt=2.78 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009322543628513813, Pitch=-0.011326143518090248, Yaw=-0.3937802314758301
+Global Position: Lat=0.0, Lon=0.0, Alt=2.58 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009328915737569332, Pitch=-0.011330058798193932, Yaw=-0.39386260509490967
+Global Position: Lat=0.0, Lon=0.0, Alt=2.75 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009348339401185513, Pitch=-0.01130975503474474, Yaw=-0.3939707279205322
+Global Position: Lat=0.0, Lon=0.0, Alt=2.54 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009373480454087257, Pitch=-0.01130763255059719, Yaw=-0.3940863311290741
+Global Position: Lat=0.0, Lon=0.0, Alt=2.54 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009386175312101841, Pitch=-0.011309176683425903, Yaw=-0.39418306946754456
+Global Position: Lat=0.0, Lon=0.0, Alt=2.56 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009389684535562992, Pitch=-0.011285800486803055, Yaw=-0.3942645192146301
+Global Position: Lat=0.0, Lon=0.0, Alt=2.76 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009374129585921764, Pitch=-0.011284846812486649, Yaw=-0.3943772614002228
+Global Position: Lat=0.0, Lon=0.0, Alt=2.5 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009350486099720001, Pitch=-0.011266958899796009, Yaw=-0.3944883346557617
+Global Position: Lat=0.0, Lon=0.0, Alt=2.78 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009305236861109734, Pitch=-0.011267783120274544, Yaw=-0.3945791721343994
+Global Position: Lat=0.0, Lon=0.0, Alt=2.59 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009286103770136833, Pitch=-0.011283139698207378, Yaw=-0.39470234513282776
+Global Position: Lat=0.0, Lon=0.0, Alt=2.86 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009263516403734684, Pitch=-0.01127542369067669, Yaw=-0.3948132395744324
+Global Position: Lat=0.0, Lon=0.0, Alt=2.96 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009270169772207737, Pitch=-0.011285508051514626, Yaw=-0.39491912722587585
+Global Position: Lat=0.0, Lon=0.0, Alt=2.76 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009259485639631748, Pitch=-0.011281262151896954, Yaw=-0.3950367569923401
+Global Position: Lat=0.0, Lon=0.0, Alt=2.5 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009267730638384819, Pitch=-0.011268172413110733, Yaw=-0.39515388011932373
+Global Position: Lat=0.0, Lon=0.0, Alt=2.78 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009284773841500282, Pitch=-0.011265278793871403, Yaw=-0.39528146386146545
+Global Position: Lat=0.0, Lon=0.0, Alt=2.79 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009280459955334663, Pitch=-0.011304296553134918, Yaw=-0.3953680396080017
+Global Position: Lat=0.0, Lon=0.0, Alt=2.65 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009300736710429192, Pitch=-0.01135168969631195, Yaw=-0.3954772651195526
+Global Position: Lat=0.0, Lon=0.0, Alt=2.53 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009319007396697998, Pitch=-0.011367915198206902, Yaw=-0.3955800533294678
+Global Position: Lat=0.0, Lon=0.0, Alt=2.66 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009336301125586033, Pitch=-0.011351547203958035, Yaw=-0.39570319652557373
+Global Position: Lat=0.0, Lon=0.0, Alt=2.76 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009324835613369942, Pitch=-0.011342235840857029, Yaw=-0.39584001898765564
+Global Position: Lat=0.0, Lon=0.0, Alt=2.67 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009335518814623356, Pitch=-0.011349809356033802, Yaw=-0.3959691524505615
+Global Position: Lat=0.0, Lon=0.0, Alt=2.72 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009322821162641048, Pitch=-0.011382758617401123, Yaw=-0.3960804045200348
+Global Position: Lat=0.0, Lon=0.0, Alt=2.32 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009302441030740738, Pitch=-0.011408907361328602, Yaw=-0.39615675806999207
+Global Position: Lat=0.0, Lon=0.0, Alt=2.62 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00930171087384224, Pitch=-0.01143956184387207, Yaw=-0.396271675825119
+Global Position: Lat=0.0, Lon=0.0, Alt=2.65 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009291115216910839, Pitch=-0.011482716538012028, Yaw=-0.3963882625102997
+Global Position: Lat=0.0, Lon=0.0, Alt=2.75 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009338007308542728, Pitch=-0.011506399139761925, Yaw=-0.39648008346557617
+Global Position: Lat=0.0, Lon=0.0, Alt=2.62 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009373083710670471, Pitch=-0.011526706628501415, Yaw=-0.39655813574790955
+Global Position: Lat=0.0, Lon=0.0, Alt=2.52 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009403144009411335, Pitch=-0.011518241837620735, Yaw=-0.3966526389122009
+Global Position: Lat=0.0, Lon=0.0, Alt=2.67 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009375733323395252, Pitch=-0.011511754244565964, Yaw=-0.39673274755477905
+Global Position: Lat=0.0, Lon=0.0, Alt=2.62 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009350443258881569, Pitch=-0.011514651589095592, Yaw=-0.3968065679073334
+Global Position: Lat=0.0, Lon=0.0, Alt=2.49 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00933979544788599, Pitch=-0.011480011977255344, Yaw=-0.3969293534755707
+Global Position: Lat=0.0, Lon=0.0, Alt=2.52 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009351536631584167, Pitch=-0.011479511857032776, Yaw=-0.39700740575790405
+Global Position: Lat=0.0, Lon=0.0, Alt=2.47 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00934941228479147, Pitch=-0.011502981185913086, Yaw=-0.3971101939678192
+Global Position: Lat=0.0, Lon=0.0, Alt=2.63 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009374860674142838, Pitch=-0.011528966948390007, Yaw=-0.3972262442111969
+Global Position: Lat=0.0, Lon=0.0, Alt=2.57 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009352847002446651, Pitch=-0.011534370481967926, Yaw=-0.397369921207428
+Global Position: Lat=0.0, Lon=0.0, Alt=2.38 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009361456148326397, Pitch=-0.01151411235332489, Yaw=-0.3974842131137848
+Global Position: Lat=0.0, Lon=0.0, Alt=2.51 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00938908290117979, Pitch=-0.01150362566113472, Yaw=-0.3975672125816345
+Global Position: Lat=0.0, Lon=0.0, Alt=2.51 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009356774389743805, Pitch=-0.011505077593028545, Yaw=-0.39765799045562744
+Global Position: Lat=0.0, Lon=0.0, Alt=2.14 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00933724083006382, Pitch=-0.011488329619169235, Yaw=-0.3977822959423065
+Global Position: Lat=0.0, Lon=0.0, Alt=2.49 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009374433197081089, Pitch=-0.01150419469922781, Yaw=-0.39787209033966064
+Global Position: Lat=0.0, Lon=0.0, Alt=2.54 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00934355054050684, Pitch=-0.011518237181007862, Yaw=-0.397989958524704
+Global Position: Lat=0.0, Lon=0.0, Alt=2.61 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009329183958470821, Pitch=-0.011507125571370125, Yaw=-0.39808258414268494
+Global Position: Lat=0.0, Lon=0.0, Alt=2.52 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009316726587712765, Pitch=-0.011510814540088177, Yaw=-0.39820772409439087
+Global Position: Lat=0.0, Lon=0.0, Alt=2.61 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009335330687463284, Pitch=-0.011481543071568012, Yaw=-0.39831820130348206
+Global Position: Lat=0.0, Lon=0.0, Alt=2.64 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00932436715811491, Pitch=-0.011419055052101612, Yaw=-0.39836493134498596
+Global Position: Lat=0.0, Lon=0.0, Alt=2.48 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009301329031586647, Pitch=-0.011399657465517521, Yaw=-0.39850494265556335
+Global Position: Lat=0.0, Lon=0.0, Alt=2.57 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009328672662377357, Pitch=-0.011422830633819103, Yaw=-0.3986234962940216
+Global Position: Lat=0.0, Lon=0.0, Alt=2.58 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009342139586806297, Pitch=-0.011383292265236378, Yaw=-0.3987797796726227
+Global Position: Lat=0.0, Lon=0.0, Alt=2.81 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009363063611090183, Pitch=-0.011376037262380123, Yaw=-0.3989104926586151
+Global Position: Lat=0.0, Lon=0.0, Alt=2.65 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009376727044582367, Pitch=-0.01137860119342804, Yaw=-0.39899298548698425
+Global Position: Lat=0.0, Lon=0.0, Alt=2.62 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009371697902679443, Pitch=-0.011381199583411217, Yaw=-0.39910998940467834
+Global Position: Lat=0.0, Lon=0.0, Alt=2.75 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009352002292871475, Pitch=-0.011407576501369476, Yaw=-0.399214506149292
+Global Position: Lat=0.0, Lon=0.0, Alt=2.72 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00939018465578556, Pitch=-0.011421125382184982, Yaw=-0.39933860301971436
+Global Position: Lat=0.0, Lon=0.0, Alt=2.86 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009394443593919277, Pitch=-0.011425643227994442, Yaw=-0.3994424045085907
+Global Position: Lat=0.0, Lon=0.0, Alt=2.52 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.0093989884480834, Pitch=-0.011399931274354458, Yaw=-0.3995676338672638
+Global Position: Lat=0.0, Lon=0.0, Alt=2.68 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009427853859961033, Pitch=-0.011406552977859974, Yaw=-0.3996715843677521
+Global Position: Lat=0.0, Lon=0.0, Alt=2.59 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009418795816600323, Pitch=-0.011404374614357948, Yaw=-0.39977043867111206
+Global Position: Lat=0.0, Lon=0.0, Alt=2.54 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009417968802154064, Pitch=-0.011425322853028774, Yaw=-0.39988261461257935
+Global Position: Lat=0.0, Lon=0.0, Alt=2.38 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009382368065416813, Pitch=-0.011469599790871143, Yaw=-0.3999660611152649
+Global Position: Lat=0.0, Lon=0.0, Alt=2.49 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00936360564082861, Pitch=-0.011457548476755619, Yaw=-0.40006786584854126
+Global Position: Lat=0.0, Lon=0.0, Alt=2.83 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009361782111227512, Pitch=-0.011458871886134148, Yaw=-0.40019306540489197
+Global Position: Lat=0.0, Lon=0.0, Alt=2.83 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00934678502380848, Pitch=-0.011478411965072155, Yaw=-0.40031200647354126
+Global Position: Lat=0.0, Lon=0.0, Alt=2.67 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00933204684406519, Pitch=-0.011456162668764591, Yaw=-0.4004158675670624
+Global Position: Lat=0.0, Lon=0.0, Alt=2.69 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009333743713796139, Pitch=-0.011429022066295147, Yaw=-0.4005313813686371
+Global Position: Lat=0.0, Lon=0.0, Alt=2.76 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009330286644399166, Pitch=-0.01144436001777649, Yaw=-0.40064892172813416
+Global Position: Lat=0.0, Lon=0.0, Alt=2.62 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00931012723594904, Pitch=-0.01144105289131403, Yaw=-0.4007551372051239
+Global Position: Lat=0.0, Lon=0.0, Alt=2.44 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009307514876127243, Pitch=-0.011420603841543198, Yaw=-0.4008305072784424
+Global Position: Lat=0.0, Lon=0.0, Alt=2.51 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009314012713730335, Pitch=-0.011415974237024784, Yaw=-0.4009411633014679
+Global Position: Lat=0.0, Lon=0.0, Alt=2.45 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00930410623550415, Pitch=-0.011421030387282372, Yaw=-0.40103602409362793
+Global Position: Lat=0.0, Lon=0.0, Alt=2.61 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00929699745029211, Pitch=-0.011443749070167542, Yaw=-0.40111640095710754
+Global Position: Lat=0.0, Lon=0.0, Alt=2.66 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009283443912863731, Pitch=-0.011470968835055828, Yaw=-0.40125054121017456
+Global Position: Lat=0.0, Lon=0.0, Alt=2.59 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009333113208413124, Pitch=-0.011468629352748394, Yaw=-0.40137913823127747
+Global Position: Lat=0.0, Lon=0.0, Alt=2.72 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009331324137747288, Pitch=-0.011442115530371666, Yaw=-0.40147891640663147
+Global Position: Lat=0.0, Lon=0.0, Alt=2.64 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009345448575913906, Pitch=-0.011396006681025028, Yaw=-0.4016006290912628
+Global Position: Lat=0.0, Lon=0.0, Alt=2.44 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00933290459215641, Pitch=-0.011377416551113129, Yaw=-0.40172961354255676
+Global Position: Lat=0.0, Lon=0.0, Alt=2.4 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009344508871436119, Pitch=-0.01137895043939352, Yaw=-0.4018418788909912
+Global Position: Lat=0.0, Lon=0.0, Alt=2.69 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009330167435109615, Pitch=-0.011382652446627617, Yaw=-0.4019223749637604
+Global Position: Lat=0.0, Lon=0.0, Alt=2.57 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009312507696449757, Pitch=-0.011358536779880524, Yaw=-0.40203383564949036
+Global Position: Lat=0.0, Lon=0.0, Alt=2.55 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009303824976086617, Pitch=-0.011342501267790794, Yaw=-0.402121901512146
+Global Position: Lat=0.0, Lon=0.0, Alt=2.44 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009342691861093044, Pitch=-0.011322490870952606, Yaw=-0.4022262990474701
+Global Position: Lat=0.0, Lon=0.0, Alt=2.49 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009341185912489891, Pitch=-0.01134324911981821, Yaw=-0.4023191034793854
+Global Position: Lat=0.0, Lon=0.0, Alt=2.52 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00933216791599989, Pitch=-0.011387583799660206, Yaw=-0.40241575241088867
+Global Position: Lat=0.0, Lon=0.0, Alt=2.38 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009351289831101894, Pitch=-0.011355428025126457, Yaw=-0.40253815054893494
+Global Position: Lat=0.0, Lon=0.0, Alt=2.79 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009347442537546158, Pitch=-0.0113143315538764, Yaw=-0.40265485644340515
+Global Position: Lat=0.0, Lon=0.0, Alt=2.58 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009351592510938644, Pitch=-0.011342694982886314, Yaw=-0.4027928113937378
+Global Position: Lat=0.0, Lon=0.0, Alt=2.52 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009321451187133789, Pitch=-0.011333344504237175, Yaw=-0.40291768312454224
+Global Position: Lat=0.0, Lon=0.0, Alt=2.64 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009313702583312988, Pitch=-0.0113517502322793, Yaw=-0.40302568674087524
+Global Position: Lat=0.0, Lon=0.0, Alt=2.65 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009307884611189365, Pitch=-0.011308741755783558, Yaw=-0.40317416191101074
+Global Position: Lat=0.0, Lon=0.0, Alt=2.9 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009300203993916512, Pitch=-0.0113419434055686, Yaw=-0.40328970551490784
+Global Position: Lat=0.0, Lon=0.0, Alt=2.69 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009299978613853455, Pitch=-0.01134500652551651, Yaw=-0.4033733010292053
+Global Position: Lat=0.0, Lon=0.0, Alt=2.69 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009322249330580235, Pitch=-0.011360091157257557, Yaw=-0.40345510840415955
+Global Position: Lat=0.0, Lon=0.0, Alt=2.61 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009328257292509079, Pitch=-0.011372164823114872, Yaw=-0.4035451412200928
+Global Position: Lat=0.0, Lon=0.0, Alt=2.79 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009347905404865742, Pitch=-0.011338334530591965, Yaw=-0.40366363525390625
+Global Position: Lat=0.0, Lon=0.0, Alt=2.45 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009377220645546913, Pitch=-0.011336170136928558, Yaw=-0.4037783741950989
+Global Position: Lat=0.0, Lon=0.0, Alt=2.97 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00940075796097517, Pitch=-0.011333154514431953, Yaw=-0.40389057993888855
+Global Position: Lat=0.0, Lon=0.0, Alt=2.5 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009380935691297054, Pitch=-0.011296248994767666, Yaw=-0.40394529700279236
+Global Position: Lat=0.0, Lon=0.0, Alt=2.66 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009385526180267334, Pitch=-0.011281724087893963, Yaw=-0.4040399491786957
+Global Position: Lat=0.0, Lon=0.0, Alt=2.48 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009387844242155552, Pitch=-0.011272488161921501, Yaw=-0.40415695309638977
+Global Position: Lat=0.0, Lon=0.0, Alt=2.69 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009397266432642937, Pitch=-0.011270255781710148, Yaw=-0.4042631685733795
+Global Position: Lat=0.0, Lon=0.0, Alt=2.33 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009399772621691227, Pitch=-0.011277198791503906, Yaw=-0.4043671190738678
+Global Position: Lat=0.0, Lon=0.0, Alt=2.72 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009398791007697582, Pitch=-0.011263309046626091, Yaw=-0.4044339060783386
+Global Position: Lat=0.0, Lon=0.0, Alt=2.44 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.0094356844201684, Pitch=-0.01127603929489851, Yaw=-0.40452301502227783
+Global Position: Lat=0.0, Lon=0.0, Alt=2.49 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009442477487027645, Pitch=-0.01126533467322588, Yaw=-0.4046008586883545
+Global Position: Lat=0.0, Lon=0.0, Alt=2.47 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009461712092161179, Pitch=-0.011259004473686218, Yaw=-0.4046892523765564
+Global Position: Lat=0.0, Lon=0.0, Alt=2.48 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009471502155065536, Pitch=-0.011234661564230919, Yaw=-0.4048078656196594
+Global Position: Lat=0.0, Lon=0.0, Alt=2.32 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009448236785829067, Pitch=-0.011259167455136776, Yaw=-0.4049166440963745
+Global Position: Lat=0.0, Lon=0.0, Alt=2.61 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00944605190306902, Pitch=-0.011261485517024994, Yaw=-0.40502628684043884
+Global Position: Lat=0.0, Lon=0.0, Alt=2.61 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009468342177569866, Pitch=-0.0112639544531703, Yaw=-0.40513718128204346
+Global Position: Lat=0.0, Lon=0.0, Alt=2.47 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009453769773244858, Pitch=-0.011215373873710632, Yaw=-0.40526580810546875
+Global Position: Lat=0.0, Lon=0.0, Alt=2.73 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009434236213564873, Pitch=-0.011177576147019863, Yaw=-0.4053533971309662
+Global Position: Lat=0.0, Lon=0.0, Alt=2.41 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009456773288547993, Pitch=-0.011169117875397205, Yaw=-0.4054245352745056
+Global Position: Lat=0.0, Lon=0.0, Alt=2.57 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009431403130292892, Pitch=-0.011154181323945522, Yaw=-0.40554046630859375
+Global Position: Lat=0.0, Lon=0.0, Alt=2.7 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009440209716558456, Pitch=-0.011116533540189266, Yaw=-0.40564802289009094
+Global Position: Lat=0.0, Lon=0.0, Alt=2.51 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.0094339270144701, Pitch=-0.011153463274240494, Yaw=-0.40577077865600586
+Global Position: Lat=0.0, Lon=0.0, Alt=2.49 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009446743875741959, Pitch=-0.011142588220536709, Yaw=-0.4058540463447571
+Global Position: Lat=0.0, Lon=0.0, Alt=2.64 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009414616040885448, Pitch=-0.011162863112986088, Yaw=-0.4059317111968994
+Global Position: Lat=0.0, Lon=0.0, Alt=2.52 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009420896880328655, Pitch=-0.011176478117704391, Yaw=-0.40604767203330994
+Global Position: Lat=0.0, Lon=0.0, Alt=2.54 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009402435272932053, Pitch=-0.011208158917725086, Yaw=-0.4061497151851654
+Global Position: Lat=0.0, Lon=0.0, Alt=2.6 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009385496377944946, Pitch=-0.01122206449508667, Yaw=-0.40627047419548035
+Global Position: Lat=0.0, Lon=0.0, Alt=2.62 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00939751323312521, Pitch=-0.011261019855737686, Yaw=-0.4063453674316406
+Global Position: Lat=0.0, Lon=0.0, Alt=2.46 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009376904927194118, Pitch=-0.011273925192654133, Yaw=-0.406469464302063
+Global Position: Lat=0.0, Lon=0.0, Alt=2.45 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00937379989773035, Pitch=-0.011336992494761944, Yaw=-0.40661340951919556
+Global Position: Lat=0.0, Lon=0.0, Alt=2.43 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009370261803269386, Pitch=-0.011334545910358429, Yaw=-0.4067138433456421
+Global Position: Lat=0.0, Lon=0.0, Alt=2.67 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00932155828922987, Pitch=-0.011317452415823936, Yaw=-0.40682849287986755
+Global Position: Lat=0.0, Lon=0.0, Alt=2.59 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00930839404463768, Pitch=-0.011298497207462788, Yaw=-0.4069165885448456
+Global Position: Lat=0.0, Lon=0.0, Alt=2.61 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009294245392084122, Pitch=-0.011270685121417046, Yaw=-0.4070097804069519
+Global Position: Lat=0.0, Lon=0.0, Alt=2.34 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009296170435845852, Pitch=-0.011270936578512192, Yaw=-0.40710824728012085
+Global Position: Lat=0.0, Lon=0.0, Alt=2.34 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009278598241508007, Pitch=-0.011276927776634693, Yaw=-0.4071985185146332
+Global Position: Lat=0.0, Lon=0.0, Alt=2.86 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009267708286643028, Pitch=-0.01130637526512146, Yaw=-0.4073130488395691
+Global Position: Lat=0.0, Lon=0.0, Alt=2.58 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009264543652534485, Pitch=-0.011278541758656502, Yaw=-0.4074101746082306
+Global Position: Lat=0.0, Lon=0.0, Alt=2.78 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009279189631342888, Pitch=-0.011260186322033405, Yaw=-0.4075053632259369
+Global Position: Lat=0.0, Lon=0.0, Alt=2.45 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00926673412322998, Pitch=-0.011281667277216911, Yaw=-0.4076336920261383
+Global Position: Lat=0.0, Lon=0.0, Alt=2.52 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00928202923387289, Pitch=-0.011309209279716015, Yaw=-0.407726526260376
+Global Position: Lat=0.0, Lon=0.0, Alt=2.64 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009269902482628822, Pitch=-0.011300405487418175, Yaw=-0.4078514873981476
+Global Position: Lat=0.0, Lon=0.0, Alt=2.35 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009265709668397903, Pitch=-0.011284342035651207, Yaw=-0.40796801447868347
+Global Position: Lat=0.0, Lon=0.0, Alt=2.39 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009275594726204872, Pitch=-0.011316897347569466, Yaw=-0.4080609977245331
+Global Position: Lat=0.0, Lon=0.0, Alt=2.76 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00928269512951374, Pitch=-0.01130744256079197, Yaw=-0.40813663601875305
+Global Position: Lat=0.0, Lon=0.0, Alt=2.6 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009282544255256653, Pitch=-0.011311812326312065, Yaw=-0.40822142362594604
+Global Position: Lat=0.0, Lon=0.0, Alt=2.73 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00925798062235117, Pitch=-0.011310887522995472, Yaw=-0.408301442861557
+Global Position: Lat=0.0, Lon=0.0, Alt=2.69 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009276268072426319, Pitch=-0.01130616944283247, Yaw=-0.4084045886993408
+Global Position: Lat=0.0, Lon=0.0, Alt=2.72 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009256341494619846, Pitch=-0.011288901790976524, Yaw=-0.408537358045578
+Global Position: Lat=0.0, Lon=0.0, Alt=2.41 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009243885986506939, Pitch=-0.011266084387898445, Yaw=-0.4086337983608246
+Global Position: Lat=0.0, Lon=0.0, Alt=2.64 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009227779693901539, Pitch=-0.011264408007264137, Yaw=-0.40870237350463867
+Global Position: Lat=0.0, Lon=0.0, Alt=2.62 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009247013367712498, Pitch=-0.011227329261600971, Yaw=-0.40880680084228516
+Global Position: Lat=0.0, Lon=0.0, Alt=2.36 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00921254139393568, Pitch=-0.011189764365553856, Yaw=-0.408878356218338
+Global Position: Lat=0.0, Lon=0.0, Alt=2.69 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009209753014147282, Pitch=-0.01118704304099083, Yaw=-0.40896499156951904
+Global Position: Lat=0.0, Lon=0.0, Alt=2.56 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009186554700136185, Pitch=-0.011180778034031391, Yaw=-0.4090339243412018
+Global Position: Lat=0.0, Lon=0.0, Alt=2.51 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009182571433484554, Pitch=-0.011207755655050278, Yaw=-0.40910112857818604
+Global Position: Lat=0.0, Lon=0.0, Alt=2.54 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00915778148919344, Pitch=-0.011206594295799732, Yaw=-0.4091780483722687
+Global Position: Lat=0.0, Lon=0.0, Alt=2.69 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009166284464299679, Pitch=-0.01117223035544157, Yaw=-0.4092895984649658
+Global Position: Lat=0.0, Lon=0.0, Alt=2.51 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00916067510843277, Pitch=-0.011155513115227222, Yaw=-0.409393310546875
+Global Position: Lat=0.0, Lon=0.0, Alt=2.79 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009135015308856964, Pitch=-0.01116788201034069, Yaw=-0.4094673991203308
+Global Position: Lat=0.0, Lon=0.0, Alt=2.67 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00913175381720066, Pitch=-0.01116796862334013, Yaw=-0.40957313776016235
+Global Position: Lat=0.0, Lon=0.0, Alt=2.65 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009135794825851917, Pitch=-0.011197101324796677, Yaw=-0.4096704125404358
+Global Position: Lat=0.0, Lon=0.0, Alt=2.61 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00914953462779522, Pitch=-0.011185793206095695, Yaw=-0.40980058908462524
+Global Position: Lat=0.0, Lon=0.0, Alt=2.51 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009152469225227833, Pitch=-0.011198848485946655, Yaw=-0.40993452072143555
+Global Position: Lat=0.0, Lon=0.0, Alt=2.44 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009183383546769619, Pitch=-0.011172913014888763, Yaw=-0.4100545048713684
+Global Position: Lat=0.0, Lon=0.0, Alt=2.71 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009199402295053005, Pitch=-0.011171175166964531, Yaw=-0.4101790487766266
+Global Position: Lat=0.0, Lon=0.0, Alt=2.83 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009227205999195576, Pitch=-0.011141982860863209, Yaw=-0.4102935492992401
+Global Position: Lat=0.0, Lon=0.0, Alt=2.46 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009221304208040237, Pitch=-0.011142455041408539, Yaw=-0.41042032837867737
+Global Position: Lat=0.0, Lon=0.0, Alt=2.6 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009182256646454334, Pitch=-0.011152705177664757, Yaw=-0.41054847836494446
+Global Position: Lat=0.0, Lon=0.0, Alt=2.41 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009198445826768875, Pitch=-0.011177285574376583, Yaw=-0.410693883895874
+Global Position: Lat=0.0, Lon=0.0, Alt=2.36 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009233116172254086, Pitch=-0.011188177391886711, Yaw=-0.410832941532135
+Global Position: Lat=0.0, Lon=0.0, Alt=2.47 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009213215671479702, Pitch=-0.011177102103829384, Yaw=-0.41091156005859375
+Global Position: Lat=0.0, Lon=0.0, Alt=2.67 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009221717715263367, Pitch=-0.011170889250934124, Yaw=-0.4109911620616913
+Global Position: Lat=0.0, Lon=0.0, Alt=2.7 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009207170456647873, Pitch=-0.011181759648025036, Yaw=-0.4111008942127228
+Global Position: Lat=0.0, Lon=0.0, Alt=2.74 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009174835868179798, Pitch=-0.011177298612892628, Yaw=-0.41122007369995117
+Global Position: Lat=0.0, Lon=0.0, Alt=2.73 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009202447719871998, Pitch=-0.01118831243366003, Yaw=-0.41133472323417664
+Global Position: Lat=0.0, Lon=0.0, Alt=2.78 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009190240874886513, Pitch=-0.011181537993252277, Yaw=-0.4114309251308441
+Global Position: Lat=0.0, Lon=0.0, Alt=2.49 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009192581288516521, Pitch=-0.01121525838971138, Yaw=-0.41154909133911133
+Global Position: Lat=0.0, Lon=0.0, Alt=2.36 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009192521683871746, Pitch=-0.011222253553569317, Yaw=-0.4116307497024536
+Global Position: Lat=0.0, Lon=0.0, Alt=2.72 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009160498157143593, Pitch=-0.011199332773685455, Yaw=-0.41176438331604004
+Global Position: Lat=0.0, Lon=0.0, Alt=2.31 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00919409841299057, Pitch=-0.011171669699251652, Yaw=-0.41186147928237915
+Global Position: Lat=0.0, Lon=0.0, Alt=2.64 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009209323674440384, Pitch=-0.011149943806231022, Yaw=-0.4119884669780731
+Global Position: Lat=0.0, Lon=0.0, Alt=2.63 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009214348159730434, Pitch=-0.011136114597320557, Yaw=-0.4120798408985138
+Global Position: Lat=0.0, Lon=0.0, Alt=2.54 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.0092347776517272, Pitch=-0.011122230440378189, Yaw=-0.41218727827072144
+Global Position: Lat=0.0, Lon=0.0, Alt=2.49 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009250939823687077, Pitch=-0.011110125109553337, Yaw=-0.41225966811180115
+Global Position: Lat=0.0, Lon=0.0, Alt=2.61 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009252738207578659, Pitch=-0.011130481027066708, Yaw=-0.4123441278934479
+Global Position: Lat=0.0, Lon=0.0, Alt=2.46 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009242248721420765, Pitch=-0.011110866442322731, Yaw=-0.4124283194541931
+Global Position: Lat=0.0, Lon=0.0, Alt=2.86 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00921611674129963, Pitch=-0.011090787127614021, Yaw=-0.41251590847969055
+Global Position: Lat=0.0, Lon=0.0, Alt=2.62 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009190348908305168, Pitch=-0.011084329336881638, Yaw=-0.4126151502132416
+Global Position: Lat=0.0, Lon=0.0, Alt=2.85 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009171586483716965, Pitch=-0.011096988804638386, Yaw=-0.4127109944820404
+Global Position: Lat=0.0, Lon=0.0, Alt=2.74 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009168365970253944, Pitch=-0.01107692439109087, Yaw=-0.41279950737953186
+Global Position: Lat=0.0, Lon=0.0, Alt=2.54 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009174319915473461, Pitch=-0.011102691292762756, Yaw=-0.4129161834716797
+Global Position: Lat=0.0, Lon=0.0, Alt=2.57 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009185783565044403, Pitch=-0.011118197813630104, Yaw=-0.41300761699676514
+Global Position: Lat=0.0, Lon=0.0, Alt=2.68 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009186781011521816, Pitch=-0.011153185740113258, Yaw=-0.4130910336971283
+Global Position: Lat=0.0, Lon=0.0, Alt=2.64 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009204271249473095, Pitch=-0.011166354641318321, Yaw=-0.4131844639778137
+Global Position: Lat=0.0, Lon=0.0, Alt=2.95 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009206977672874928, Pitch=-0.011189085431396961, Yaw=-0.4132896065711975
+Global Position: Lat=0.0, Lon=0.0, Alt=2.48 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00924829300493002, Pitch=-0.011183088645339012, Yaw=-0.41341128945350647
+Global Position: Lat=0.0, Lon=0.0, Alt=2.66 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009234936907887459, Pitch=-0.011165501549839973, Yaw=-0.4135420620441437
+Global Position: Lat=0.0, Lon=0.0, Alt=2.81 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009222407825291157, Pitch=-0.011131166480481625, Yaw=-0.4136144518852234
+Global Position: Lat=0.0, Lon=0.0, Alt=2.67 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009228864684700966, Pitch=-0.011137114837765694, Yaw=-0.41370341181755066
+Global Position: Lat=0.0, Lon=0.0, Alt=2.72 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009202677756547928, Pitch=-0.011173749342560768, Yaw=-0.4138171374797821
+Global Position: Lat=0.0, Lon=0.0, Alt=2.69 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009190719574689865, Pitch=-0.011182772926986217, Yaw=-0.4139283299446106
+Global Position: Lat=0.0, Lon=0.0, Alt=2.52 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009217603132128716, Pitch=-0.011171530932188034, Yaw=-0.41402313113212585
+Global Position: Lat=0.0, Lon=0.0, Alt=2.59 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009204303845763206, Pitch=-0.011185293085873127, Yaw=-0.41409146785736084
+Global Position: Lat=0.0, Lon=0.0, Alt=2.62 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009181765839457512, Pitch=-0.011168831959366798, Yaw=-0.41419893503189087
+Global Position: Lat=0.0, Lon=0.0, Alt=2.49 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009167800657451153, Pitch=-0.01117500476539135, Yaw=-0.4142813980579376
+Global Position: Lat=0.0, Lon=0.0, Alt=2.51 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009146138094365597, Pitch=-0.011175641790032387, Yaw=-0.41439878940582275
+Global Position: Lat=0.0, Lon=0.0, Alt=2.93 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00915796123445034, Pitch=-0.011186900548636913, Yaw=-0.4144532084465027
+Global Position: Lat=0.0, Lon=0.0, Alt=2.8 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00915360264480114, Pitch=-0.011158160865306854, Yaw=-0.4145473539829254
+Global Position: Lat=0.0, Lon=0.0, Alt=2.79 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009169974364340305, Pitch=-0.011174679733812809, Yaw=-0.4146195948123932
+Global Position: Lat=0.0, Lon=0.0, Alt=2.88 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009159673936665058, Pitch=-0.01116393506526947, Yaw=-0.4147559106349945
+Global Position: Lat=0.0, Lon=0.0, Alt=2.74 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009169194847345352, Pitch=-0.0111904451623559, Yaw=-0.41487395763397217
+Global Position: Lat=0.0, Lon=0.0, Alt=2.64 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009158718399703503, Pitch=-0.011137683875858784, Yaw=-0.41495683789253235
+Global Position: Lat=0.0, Lon=0.0, Alt=2.67 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009165521711111069, Pitch=-0.01115655992180109, Yaw=-0.4150797128677368
+Global Position: Lat=0.0, Lon=0.0, Alt=2.91 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00917571410536766, Pitch=-0.011174153536558151, Yaw=-0.41520094871520996
+Global Position: Lat=0.0, Lon=0.0, Alt=2.62 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009200259111821651, Pitch=-0.011181356385350227, Yaw=-0.4152885973453522
+Global Position: Lat=0.0, Lon=0.0, Alt=2.31 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009221749380230904, Pitch=-0.011165691539645195, Yaw=-0.41543418169021606
+Global Position: Lat=0.0, Lon=0.0, Alt=2.65 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009215057827532291, Pitch=-0.011162424460053444, Yaw=-0.4155576825141907
+Global Position: Lat=0.0, Lon=0.0, Alt=2.36 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009211914613842964, Pitch=-0.011138313449919224, Yaw=-0.41564348340034485
+Global Position: Lat=0.0, Lon=0.0, Alt=2.46 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009190547280013561, Pitch=-0.011163446120917797, Yaw=-0.4157644212245941
+Global Position: Lat=0.0, Lon=0.0, Alt=2.34 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009193966165184975, Pitch=-0.011162440292537212, Yaw=-0.4158777594566345
+Global Position: Lat=0.0, Lon=0.0, Alt=2.53 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009180530905723572, Pitch=-0.011179838329553604, Yaw=-0.4159910976886749
+Global Position: Lat=0.0, Lon=0.0, Alt=2.75 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009171674028038979, Pitch=-0.01120145246386528, Yaw=-0.41609033942222595
+Global Position: Lat=0.0, Lon=0.0, Alt=2.58 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009182913228869438, Pitch=-0.01117299310863018, Yaw=-0.4161607623100281
+Global Position: Lat=0.0, Lon=0.0, Alt=2.77 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009188158437609673, Pitch=-0.011163754388689995, Yaw=-0.416268914937973
+Global Position: Lat=0.0, Lon=0.0, Alt=2.75 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009153112769126892, Pitch=-0.011175667867064476, Yaw=-0.41636449098587036
+Global Position: Lat=0.0, Lon=0.0, Alt=2.71 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009129635989665985, Pitch=-0.011163652874529362, Yaw=-0.41648322343826294
+Global Position: Lat=0.0, Lon=0.0, Alt=2.42 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009140054695308208, Pitch=-0.011176865547895432, Yaw=-0.41654783487319946
+Global Position: Lat=0.0, Lon=0.0, Alt=2.86 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009119817987084389, Pitch=-0.011165594682097435, Yaw=-0.4166853725910187
+Global Position: Lat=0.0, Lon=0.0, Alt=2.69 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009121144190430641, Pitch=-0.0111606540158391, Yaw=-0.41681331396102905
+Global Position: Lat=0.0, Lon=0.0, Alt=2.49 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009103680029511452, Pitch=-0.01116359606385231, Yaw=-0.4169185161590576
+Global Position: Lat=0.0, Lon=0.0, Alt=2.55 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009115642867982388, Pitch=-0.011153589002788067, Yaw=-0.4170340299606323
+Global Position: Lat=0.0, Lon=0.0, Alt=2.43 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009131832048296928, Pitch=-0.011190786957740784, Yaw=-0.41716527938842773
+Global Position: Lat=0.0, Lon=0.0, Alt=2.47 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00913366861641407, Pitch=-0.011202585883438587, Yaw=-0.4173048138618469
+Global Position: Lat=0.0, Lon=0.0, Alt=2.79 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009108361788094044, Pitch=-0.011200864799320698, Yaw=-0.4174145758152008
+Global Position: Lat=0.0, Lon=0.0, Alt=2.75 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009144235402345657, Pitch=-0.011197453364729881, Yaw=-0.4174972474575043
+Global Position: Lat=0.0, Lon=0.0, Alt=2.46 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009149269200861454, Pitch=-0.011202066205441952, Yaw=-0.4175863265991211
+Global Position: Lat=0.0, Lon=0.0, Alt=2.8 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009155997075140476, Pitch=-0.0112268952652812, Yaw=-0.4177306890487671
+Global Position: Lat=0.0, Lon=0.0, Alt=2.61 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009183176793158054, Pitch=-0.011222528293728828, Yaw=-0.41785240173339844
+Global Position: Lat=0.0, Lon=0.0, Alt=2.59 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009166629984974861, Pitch=-0.011191794648766518, Yaw=-0.4179849624633789
+Global Position: Lat=0.0, Lon=0.0, Alt=2.79 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009219745174050331, Pitch=-0.011237846687436104, Yaw=-0.41808056831359863
+Global Position: Lat=0.0, Lon=0.0, Alt=2.86 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009225903078913689, Pitch=-0.011233890429139137, Yaw=-0.4182078540325165
+Global Position: Lat=0.0, Lon=0.0, Alt=2.46 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00926276110112667, Pitch=-0.011232431046664715, Yaw=-0.4183289408683777
+Global Position: Lat=0.0, Lon=0.0, Alt=2.61 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009275499731302261, Pitch=-0.011239303275942802, Yaw=-0.4184432029724121
+Global Position: Lat=0.0, Lon=0.0, Alt=2.65 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009248730726540089, Pitch=-0.0112371314316988, Yaw=-0.4185734987258911
+Global Position: Lat=0.0, Lon=0.0, Alt=2.36 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009244140237569809, Pitch=-0.011211930774152279, Yaw=-0.4186883270740509
+Global Position: Lat=0.0, Lon=0.0, Alt=2.43 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009250806644558907, Pitch=-0.01123019214719534, Yaw=-0.418768048286438
+Global Position: Lat=0.0, Lon=0.0, Alt=2.84 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009269285947084427, Pitch=-0.011227489449083805, Yaw=-0.4188654124736786
+Global Position: Lat=0.0, Lon=0.0, Alt=2.52 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009296271950006485, Pitch=-0.011242483742535114, Yaw=-0.41897788643836975
+Global Position: Lat=0.0, Lon=0.0, Alt=2.84 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009288054890930653, Pitch=-0.011267606168985367, Yaw=-0.41908764839172363
+Global Position: Lat=0.0, Lon=0.0, Alt=2.76 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009286581538617611, Pitch=-0.011244391091167927, Yaw=-0.4191887080669403
+Global Position: Lat=0.0, Lon=0.0, Alt=2.56 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009265689179301262, Pitch=-0.011256027035415173, Yaw=-0.4193219244480133
+Global Position: Lat=0.0, Lon=0.0, Alt=2.35 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009229278191924095, Pitch=-0.011242360807955265, Yaw=-0.41947141289711
+Global Position: Lat=0.0, Lon=0.0, Alt=2.54 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009243295527994633, Pitch=-0.011252511292696, Yaw=-0.4196121096611023
+Global Position: Lat=0.0, Lon=0.0, Alt=2.5 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009253641590476036, Pitch=-0.011251004412770271, Yaw=-0.41972100734710693
+Global Position: Lat=0.0, Lon=0.0, Alt=2.62 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009253897704184055, Pitch=-0.01126938872039318, Yaw=-0.41985344886779785
+Global Position: Lat=0.0, Lon=0.0, Alt=2.73 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00925177987664938, Pitch=-0.011260355822741985, Yaw=-0.41994962096214294
+Global Position: Lat=0.0, Lon=0.0, Alt=2.74 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00924135185778141, Pitch=-0.011270275339484215, Yaw=-0.4200504720211029
+Global Position: Lat=0.0, Lon=0.0, Alt=2.42 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009260831400752068, Pitch=-0.011285712942481041, Yaw=-0.4201725423336029
+Global Position: Lat=0.0, Lon=0.0, Alt=2.54 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009256609715521336, Pitch=-0.011289778165519238, Yaw=-0.42029544711112976
+Global Position: Lat=0.0, Lon=0.0, Alt=2.77 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009277802892029285, Pitch=-0.011298524215817451, Yaw=-0.42040926218032837
+Global Position: Lat=0.0, Lon=0.0, Alt=2.46 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009297369979321957, Pitch=-0.011316297575831413, Yaw=-0.42050644755363464
+Global Position: Lat=0.0, Lon=0.0, Alt=2.54 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00929748173803091, Pitch=-0.011320401914417744, Yaw=-0.42062196135520935
+Global Position: Lat=0.0, Lon=0.0, Alt=2.65 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00927631463855505, Pitch=-0.011371568776667118, Yaw=-0.42071717977523804
+Global Position: Lat=0.0, Lon=0.0, Alt=2.51 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009290809743106365, Pitch=-0.011369485408067703, Yaw=-0.42083486914634705
+Global Position: Lat=0.0, Lon=0.0, Alt=2.69 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009266944602131844, Pitch=-0.011361319571733475, Yaw=-0.42091095447540283
+Global Position: Lat=0.0, Lon=0.0, Alt=2.5 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009239841252565384, Pitch=-0.011341679841279984, Yaw=-0.42100659012794495
+Global Position: Lat=0.0, Lon=0.0, Alt=2.76 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009225249290466309, Pitch=-0.011371965520083904, Yaw=-0.4210800230503082
+Global Position: Lat=0.0, Lon=0.0, Alt=2.54 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009190342389047146, Pitch=-0.011349732987582684, Yaw=-0.42118963599205017
+Global Position: Lat=0.0, Lon=0.0, Alt=2.69 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009194420650601387, Pitch=-0.011363878846168518, Yaw=-0.42128118872642517
+Global Position: Lat=0.0, Lon=0.0, Alt=2.77 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00919236708432436, Pitch=-0.01138322427868843, Yaw=-0.42142149806022644
+Global Position: Lat=0.0, Lon=0.0, Alt=2.94 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009181884117424488, Pitch=-0.011378747411072254, Yaw=-0.42150047421455383
+Global Position: Lat=0.0, Lon=0.0, Alt=2.66 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009197035804390907, Pitch=-0.011368650943040848, Yaw=-0.4215799868106842
+Global Position: Lat=0.0, Lon=0.0, Alt=2.5 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009187031537294388, Pitch=-0.011379266157746315, Yaw=-0.42167580127716064
+Global Position: Lat=0.0, Lon=0.0, Alt=2.83 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009170354343950748, Pitch=-0.01141397375613451, Yaw=-0.4217741787433624
+Global Position: Lat=0.0, Lon=0.0, Alt=2.35 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009174701757729053, Pitch=-0.011450427584350109, Yaw=-0.4218563735485077
+Global Position: Lat=0.0, Lon=0.0, Alt=2.41 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009190259501338005, Pitch=-0.011458316817879677, Yaw=-0.4219580888748169
+Global Position: Lat=0.0, Lon=0.0, Alt=2.72 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009195143356919289, Pitch=-0.0114475442096591, Yaw=-0.42206454277038574
+Global Position: Lat=0.0, Lon=0.0, Alt=2.6 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009188978932797909, Pitch=-0.011444350704550743, Yaw=-0.4222014546394348
+Global Position: Lat=0.0, Lon=0.0, Alt=2.64 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009202416986227036, Pitch=-0.011461226269602776, Yaw=-0.42229053378105164
+Global Position: Lat=0.0, Lon=0.0, Alt=2.36 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009189130738377571, Pitch=-0.011447974480688572, Yaw=-0.4224277436733246
+Global Position: Lat=0.0, Lon=0.0, Alt=2.59 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009194309823215008, Pitch=-0.011424520052969456, Yaw=-0.42250856757164
+Global Position: Lat=0.0, Lon=0.0, Alt=2.46 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009151768870651722, Pitch=-0.011446329765021801, Yaw=-0.42260855436325073
+Global Position: Lat=0.0, Lon=0.0, Alt=2.78 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009164022281765938, Pitch=-0.011417154222726822, Yaw=-0.42274147272109985
+Global Position: Lat=0.0, Lon=0.0, Alt=2.64 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009176698513329029, Pitch=-0.01139891892671585, Yaw=-0.42283207178115845
+Global Position: Lat=0.0, Lon=0.0, Alt=2.98 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009170233272016048, Pitch=-0.011402498930692673, Yaw=-0.42292076349258423
+Global Position: Lat=0.0, Lon=0.0, Alt=2.69 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009174919687211514, Pitch=-0.011403159238398075, Yaw=-0.4230085611343384
+Global Position: Lat=0.0, Lon=0.0, Alt=2.72 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00914386659860611, Pitch=-0.01139719970524311, Yaw=-0.4231041669845581
+Global Position: Lat=0.0, Lon=0.0, Alt=2.79 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009145854040980339, Pitch=-0.011407770216464996, Yaw=-0.423183411359787
+Global Position: Lat=0.0, Lon=0.0, Alt=2.8 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009131340309977531, Pitch=-0.011416792869567871, Yaw=-0.42328107357025146
+Global Position: Lat=0.0, Lon=0.0, Alt=2.81 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009145667776465416, Pitch=-0.011395075358450413, Yaw=-0.42337942123413086
+Global Position: Lat=0.0, Lon=0.0, Alt=2.88 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009144499897956848, Pitch=-0.011432401835918427, Yaw=-0.42352035641670227
+Global Position: Lat=0.0, Lon=0.0, Alt=2.64 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009142004884779453, Pitch=-0.011453468352556229, Yaw=-0.42361676692962646
+Global Position: Lat=0.0, Lon=0.0, Alt=2.54 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009110968559980392, Pitch=-0.011471930891275406, Yaw=-0.4237525463104248
+Global Position: Lat=0.0, Lon=0.0, Alt=2.47 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009112191386520863, Pitch=-0.0114663764834404, Yaw=-0.4238227903842926
+Global Position: Lat=0.0, Lon=0.0, Alt=2.59 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009074424393475056, Pitch=-0.011476173996925354, Yaw=-0.42392098903656006
+Global Position: Lat=0.0, Lon=0.0, Alt=2.82 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009091216139495373, Pitch=-0.011453725397586823, Yaw=-0.42405205965042114
+Global Position: Lat=0.0, Lon=0.0, Alt=2.79 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009079729206860065, Pitch=-0.01147452276200056, Yaw=-0.4241773784160614
+Global Position: Lat=0.0, Lon=0.0, Alt=3.0 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00906174723058939, Pitch=-0.011459371075034142, Yaw=-0.42427849769592285
+Global Position: Lat=0.0, Lon=0.0, Alt=2.68 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009030508808791637, Pitch=-0.011488637886941433, Yaw=-0.42436543107032776
+Global Position: Lat=0.0, Lon=0.0, Alt=2.64 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009041761979460716, Pitch=-0.011453207582235336, Yaw=-0.4244872033596039
+Global Position: Lat=0.0, Lon=0.0, Alt=2.83 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009046765975654125, Pitch=-0.011479874141514301, Yaw=-0.4245816469192505
+Global Position: Lat=0.0, Lon=0.0, Alt=2.88 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009044302627444267, Pitch=-0.011479940265417099, Yaw=-0.4246665835380554
+Global Position: Lat=0.0, Lon=0.0, Alt=2.85 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009071054868400097, Pitch=-0.01147076953202486, Yaw=-0.42479008436203003
+Global Position: Lat=0.0, Lon=0.0, Alt=2.45 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009076585061848164, Pitch=-0.011446155607700348, Yaw=-0.42489299178123474
+Global Position: Lat=0.0, Lon=0.0, Alt=2.5 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009100064635276794, Pitch=-0.011450229212641716, Yaw=-0.42497676610946655
+Global Position: Lat=0.0, Lon=0.0, Alt=3.06 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009139307774603367, Pitch=-0.011430827900767326, Yaw=-0.4250653386116028
+Global Position: Lat=0.0, Lon=0.0, Alt=2.67 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009161445312201977, Pitch=-0.011434849351644516, Yaw=-0.4251784384250641
+Global Position: Lat=0.0, Lon=0.0, Alt=2.69 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009161681868135929, Pitch=-0.011412279680371284, Yaw=-0.425295889377594
+Global Position: Lat=0.0, Lon=0.0, Alt=2.99 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009166066534817219, Pitch=-0.011435827240347862, Yaw=-0.4254085421562195
+Global Position: Lat=0.0, Lon=0.0, Alt=2.74 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009170117788016796, Pitch=-0.01145213097333908, Yaw=-0.4255508482456207
+Global Position: Lat=0.0, Lon=0.0, Alt=2.81 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009181607514619827, Pitch=-0.011492176912724972, Yaw=-0.4256061017513275
+Global Position: Lat=0.0, Lon=0.0, Alt=2.71 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009192907251417637, Pitch=-0.011485722847282887, Yaw=-0.42568549513816833
+Global Position: Lat=0.0, Lon=0.0, Alt=2.71 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009195803664624691, Pitch=-0.011526204645633698, Yaw=-0.4257761240005493
+Global Position: Lat=0.0, Lon=0.0, Alt=2.91 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009183652698993683, Pitch=-0.011534124612808228, Yaw=-0.42584845423698425
+Global Position: Lat=0.0, Lon=0.0, Alt=2.68 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00916509423404932, Pitch=-0.011507346294820309, Yaw=-0.42595773935317993
+Global Position: Lat=0.0, Lon=0.0, Alt=2.6 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009164359420537949, Pitch=-0.011543938890099525, Yaw=-0.4260595440864563
+Global Position: Lat=0.0, Lon=0.0, Alt=2.57 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009156120009720325, Pitch=-0.011529563926160336, Yaw=-0.42613908648490906
+Global Position: Lat=0.0, Lon=0.0, Alt=2.58 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009186103008687496, Pitch=-0.011542811058461666, Yaw=-0.4262459874153137
+Global Position: Lat=0.0, Lon=0.0, Alt=2.59 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009206929244101048, Pitch=-0.01155803818255663, Yaw=-0.4263370633125305
+Global Position: Lat=0.0, Lon=0.0, Alt=2.95 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009184030815958977, Pitch=-0.011546391993761063, Yaw=-0.426464706659317
+Global Position: Lat=0.0, Lon=0.0, Alt=2.5 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009169839322566986, Pitch=-0.01151600107550621, Yaw=-0.42655253410339355
+Global Position: Lat=0.0, Lon=0.0, Alt=2.76 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009171752259135246, Pitch=-0.011520394124090672, Yaw=-0.42664968967437744
+Global Position: Lat=0.0, Lon=0.0, Alt=2.84 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009183919057250023, Pitch=-0.011506440117955208, Yaw=-0.42678603529930115
+Global Position: Lat=0.0, Lon=0.0, Alt=2.42 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009184442460536957, Pitch=-0.011508581228554249, Yaw=-0.4269234240055084
+Global Position: Lat=0.0, Lon=0.0, Alt=2.75 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009166662581264973, Pitch=-0.011497782543301582, Yaw=-0.42698824405670166
+Global Position: Lat=0.0, Lon=0.0, Alt=2.69 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009177962318062782, Pitch=-0.011433947831392288, Yaw=-0.4270915687084198
+Global Position: Lat=0.0, Lon=0.0, Alt=2.59 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009187093004584312, Pitch=-0.011436142958700657, Yaw=-0.4271652400493622
+Global Position: Lat=0.0, Lon=0.0, Alt=2.55 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009205606766045094, Pitch=-0.011417873203754425, Yaw=-0.4272739887237549
+Global Position: Lat=0.0, Lon=0.0, Alt=2.84 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009199040941894054, Pitch=-0.011418797075748444, Yaw=-0.42735961079597473
+Global Position: Lat=0.0, Lon=0.0, Alt=2.59 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009190384298563004, Pitch=-0.011397916823625565, Yaw=-0.42741286754608154
+Global Position: Lat=0.0, Lon=0.0, Alt=2.43 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009207925759255886, Pitch=-0.011393413878977299, Yaw=-0.427505224943161
+Global Position: Lat=0.0, Lon=0.0, Alt=2.68 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009215659461915493, Pitch=-0.011409095488488674, Yaw=-0.4276110529899597
+Global Position: Lat=0.0, Lon=0.0, Alt=2.63 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009225201793015003, Pitch=-0.0114383390173316, Yaw=-0.4277018904685974
+Global Position: Lat=0.0, Lon=0.0, Alt=2.55 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009212689474225044, Pitch=-0.011379234492778778, Yaw=-0.427804172039032
+Global Position: Lat=0.0, Lon=0.0, Alt=2.47 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009229976683855057, Pitch=-0.011619043536484241, Yaw=-0.4385048747062683
+Global Position: Lat=0.0, Lon=0.0, Alt=2.75 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009269383735954762, Pitch=-0.011635114438831806, Yaw=-0.4391518831253052
+Global Position: Lat=0.0, Lon=0.0, Alt=2.44 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009256912395358086, Pitch=-0.011644236743450165, Yaw=-0.4392901062965393
+Global Position: Lat=0.0, Lon=0.0, Alt=2.8 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.0092415576800704, Pitch=-0.011637390591204166, Yaw=-0.439409464597702
+Global Position: Lat=0.0, Lon=0.0, Alt=2.6 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009277185425162315, Pitch=-0.011633109301328659, Yaw=-0.43954670429229736
+Global Position: Lat=0.0, Lon=0.0, Alt=2.58 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009264644235372543, Pitch=-0.01160319522023201, Yaw=-0.43967217206954956
+Global Position: Lat=0.0, Lon=0.0, Alt=2.46 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00928555615246296, Pitch=-0.011579219251871109, Yaw=-0.4397847354412079
+Global Position: Lat=0.0, Lon=0.0, Alt=2.42 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009298431687057018, Pitch=-0.011567055247724056, Yaw=-0.43989118933677673
+Global Position: Lat=0.0, Lon=0.0, Alt=2.54 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009314988739788532, Pitch=-0.011582793667912483, Yaw=-0.4399891495704651
+Global Position: Lat=0.0, Lon=0.0, Alt=2.69 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00931452214717865, Pitch=-0.01161396224051714, Yaw=-0.4401150047779083
+Global Position: Lat=0.0, Lon=0.0, Alt=2.48 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009352889843285084, Pitch=-0.011587081477046013, Yaw=-0.4402161240577698
+Global Position: Lat=0.0, Lon=0.0, Alt=2.57 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00936463288962841, Pitch=-0.011560671031475067, Yaw=-0.4403257668018341
+Global Position: Lat=0.0, Lon=0.0, Alt=2.74 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009333782829344273, Pitch=-0.011596721597015858, Yaw=-0.4404430687427521
+Global Position: Lat=0.0, Lon=0.0, Alt=2.6 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009328263811767101, Pitch=-0.011616409756243229, Yaw=-0.44055673480033875
+Global Position: Lat=0.0, Lon=0.0, Alt=2.66 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009325182065367699, Pitch=-0.011611024849116802, Yaw=-0.44066107273101807
+Global Position: Lat=0.0, Lon=0.0, Alt=2.44 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009280161932110786, Pitch=-0.011605904437601566, Yaw=-0.4407721757888794
+Global Position: Lat=0.0, Lon=0.0, Alt=2.65 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009291722439229488, Pitch=-0.011639769189059734, Yaw=-0.44089338183403015
+Global Position: Lat=0.0, Lon=0.0, Alt=2.66 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00931468140333891, Pitch=-0.011553142219781876, Yaw=-0.44096988439559937
+Global Position: Lat=0.0, Lon=0.0, Alt=2.58 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009346770122647285, Pitch=-0.011559905484318733, Yaw=-0.4410623610019684
+Global Position: Lat=0.0, Lon=0.0, Alt=2.47 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009351544082164764, Pitch=-0.011563550680875778, Yaw=-0.4411197304725647
+Global Position: Lat=0.0, Lon=0.0, Alt=2.42 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009367423132061958, Pitch=-0.01157394889742136, Yaw=-0.4412473440170288
+Global Position: Lat=0.0, Lon=0.0, Alt=2.52 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00935894064605236, Pitch=-0.011590416543185711, Yaw=-0.44138282537460327
+Global Position: Lat=0.0, Lon=0.0, Alt=2.3 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009390832856297493, Pitch=-0.011628249660134315, Yaw=-0.44148701429367065
+Global Position: Lat=0.0, Lon=0.0, Alt=2.61 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009372217580676079, Pitch=-0.01161671057343483, Yaw=-0.44159120321273804
+Global Position: Lat=0.0, Lon=0.0, Alt=2.5 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009381634183228016, Pitch=-0.011671280488371849, Yaw=-0.44170910120010376
+Global Position: Lat=0.0, Lon=0.0, Alt=2.33 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009360257536172867, Pitch=-0.01165764033794403, Yaw=-0.44181719422340393
+Global Position: Lat=0.0, Lon=0.0, Alt=2.48 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009323477745056152, Pitch=-0.011670646257698536, Yaw=-0.44192713499069214
+Global Position: Lat=0.0, Lon=0.0, Alt=2.64 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009272793307900429, Pitch=-0.011701380833983421, Yaw=-0.44198769330978394
+Global Position: Lat=0.0, Lon=0.0, Alt=2.73 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009301167912781239, Pitch=-0.011695858091115952, Yaw=-0.4421129822731018
+Global Position: Lat=0.0, Lon=0.0, Alt=2.57 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009321475401520729, Pitch=-0.011718492954969406, Yaw=-0.44219839572906494
+Global Position: Lat=0.0, Lon=0.0, Alt=2.49 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009333299472928047, Pitch=-0.011715042404830456, Yaw=-0.4422898292541504
+Global Position: Lat=0.0, Lon=0.0, Alt=2.7 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00933548342436552, Pitch=-0.011719168163836002, Yaw=-0.4424099922180176
+Global Position: Lat=0.0, Lon=0.0, Alt=2.56 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009329251013696194, Pitch=-0.011678132228553295, Yaw=-0.44250789284706116
+Global Position: Lat=0.0, Lon=0.0, Alt=2.46 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009323644451797009, Pitch=-0.011688769795000553, Yaw=-0.4426133632659912
+Global Position: Lat=0.0, Lon=0.0, Alt=2.65 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009351670742034912, Pitch=-0.011688887141644955, Yaw=-0.4427100419998169
+Global Position: Lat=0.0, Lon=0.0, Alt=2.5 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009369369596242905, Pitch=-0.011714981868863106, Yaw=-0.4428277909755707
+Global Position: Lat=0.0, Lon=0.0, Alt=2.57 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009343675337731838, Pitch=-0.01169795636087656, Yaw=-0.4429115951061249
+Global Position: Lat=0.0, Lon=0.0, Alt=2.61 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009383919648826122, Pitch=-0.011704346165060997, Yaw=-0.4430094361305237
+Global Position: Lat=0.0, Lon=0.0, Alt=2.6 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009402722120285034, Pitch=-0.011734872125089169, Yaw=-0.4431154727935791
+Global Position: Lat=0.0, Lon=0.0, Alt=2.54 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.0093960240483284, Pitch=-0.011721775867044926, Yaw=-0.4432237148284912
+Global Position: Lat=0.0, Lon=0.0, Alt=2.66 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009393870830535889, Pitch=-0.011704272590577602, Yaw=-0.44332244992256165
+Global Position: Lat=0.0, Lon=0.0, Alt=2.68 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009401459246873856, Pitch=-0.011697583831846714, Yaw=-0.4434402585029602
+Global Position: Lat=0.0, Lon=0.0, Alt=2.8 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00939769484102726, Pitch=-0.011708770878612995, Yaw=-0.4435398578643799
+Global Position: Lat=0.0, Lon=0.0, Alt=2.64 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009420257993042469, Pitch=-0.011738077737390995, Yaw=-0.443631649017334
+Global Position: Lat=0.0, Lon=0.0, Alt=2.35 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009416154585778713, Pitch=-0.01171575952321291, Yaw=-0.4437369108200073
+Global Position: Lat=0.0, Lon=0.0, Alt=2.58 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009436582215130329, Pitch=-0.011688794009387493, Yaw=-0.4438241124153137
+Global Position: Lat=0.0, Lon=0.0, Alt=2.68 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009427595883607864, Pitch=-0.01165824942290783, Yaw=-0.4438948929309845
+Global Position: Lat=0.0, Lon=0.0, Alt=2.61 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009410002268850803, Pitch=-0.011653167195618153, Yaw=-0.4439915418624878
+Global Position: Lat=0.0, Lon=0.0, Alt=2.64 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009382721036672592, Pitch=-0.011663893237709999, Yaw=-0.4440804421901703
+Global Position: Lat=0.0, Lon=0.0, Alt=2.84 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009366295300424099, Pitch=-0.011670715175569057, Yaw=-0.44419312477111816
+Global Position: Lat=0.0, Lon=0.0, Alt=2.4 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009343639016151428, Pitch=-0.011626383289694786, Yaw=-0.44426584243774414
+Global Position: Lat=0.0, Lon=0.0, Alt=2.76 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009365981444716454, Pitch=-0.011596673168241978, Yaw=-0.4443863034248352
+Global Position: Lat=0.0, Lon=0.0, Alt=2.62 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009390379302203655, Pitch=-0.011611144989728928, Yaw=-0.44449102878570557
+Global Position: Lat=0.0, Lon=0.0, Alt=2.42 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009393127635121346, Pitch=-0.011635142378509045, Yaw=-0.4446113705635071
+Global Position: Lat=0.0, Lon=0.0, Alt=2.53 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009434210136532784, Pitch=-0.011647156439721584, Yaw=-0.44471022486686707
+Global Position: Lat=0.0, Lon=0.0, Alt=2.69 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009446710348129272, Pitch=-0.011636904440820217, Yaw=-0.4448132812976837
+Global Position: Lat=0.0, Lon=0.0, Alt=2.59 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00945440772920847, Pitch=-0.011662416160106659, Yaw=-0.4449428617954254
+Global Position: Lat=0.0, Lon=0.0, Alt=2.7 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009469732642173767, Pitch=-0.011680128052830696, Yaw=-0.4450310468673706
+Global Position: Lat=0.0, Lon=0.0, Alt=2.51 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009465291164815426, Pitch=-0.011709648184478283, Yaw=-0.44513559341430664
+Global Position: Lat=0.0, Lon=0.0, Alt=2.51 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009437293745577335, Pitch=-0.011728131212294102, Yaw=-0.44521746039390564
+Global Position: Lat=0.0, Lon=0.0, Alt=2.48 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00942340586334467, Pitch=-0.011727452278137207, Yaw=-0.4453418254852295
+Global Position: Lat=0.0, Lon=0.0, Alt=2.52 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009413229301571846, Pitch=-0.011746693402528763, Yaw=-0.44546031951904297
+Global Position: Lat=0.0, Lon=0.0, Alt=2.68 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009420257993042469, Pitch=-0.011734765022993088, Yaw=-0.44555938243865967
+Global Position: Lat=0.0, Lon=0.0, Alt=2.56 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009433361701667309, Pitch=-0.011700903065502644, Yaw=-0.4456831216812134
+Global Position: Lat=0.0, Lon=0.0, Alt=2.52 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009421199560165405, Pitch=-0.011677651666104794, Yaw=-0.4457899332046509
+Global Position: Lat=0.0, Lon=0.0, Alt=2.8 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009399814531207085, Pitch=-0.01166454330086708, Yaw=-0.4458654224872589
+Global Position: Lat=0.0, Lon=0.0, Alt=2.76 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009356347844004631, Pitch=-0.01163746789097786, Yaw=-0.44597914814949036
+Global Position: Lat=0.0, Lon=0.0, Alt=2.6 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009356684051454067, Pitch=-0.011621135286986828, Yaw=-0.44606998562812805
+Global Position: Lat=0.0, Lon=0.0, Alt=2.79 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009326595813035965, Pitch=-0.011593966744840145, Yaw=-0.44613268971443176
+Global Position: Lat=0.0, Lon=0.0, Alt=2.36 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00934276171028614, Pitch=-0.011617769487202168, Yaw=-0.4462294280529022
+Global Position: Lat=0.0, Lon=0.0, Alt=2.55 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009353524073958397, Pitch=-0.011629150249063969, Yaw=-0.4463048279285431
+Global Position: Lat=0.0, Lon=0.0, Alt=2.36 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009355337359011173, Pitch=-0.01162559725344181, Yaw=-0.44638991355895996
+Global Position: Lat=0.0, Lon=0.0, Alt=2.55 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009370788931846619, Pitch=-0.011578425765037537, Yaw=-0.44645681977272034
+Global Position: Lat=0.0, Lon=0.0, Alt=2.76 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009406393393874168, Pitch=-0.011609944514930248, Yaw=-0.44655680656433105
+Global Position: Lat=0.0, Lon=0.0, Alt=2.33 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009408582001924515, Pitch=-0.011611769907176495, Yaw=-0.4466663897037506
+Global Position: Lat=0.0, Lon=0.0, Alt=2.41 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00945470854640007, Pitch=-0.011617839336395264, Yaw=-0.4467722773551941
+Global Position: Lat=0.0, Lon=0.0, Alt=2.64 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009443300776183605, Pitch=-0.011570977047085762, Yaw=-0.4468657672405243
+Global Position: Lat=0.0, Lon=0.0, Alt=2.57 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009457439184188843, Pitch=-0.011569783091545105, Yaw=-0.4469921290874481
+Global Position: Lat=0.0, Lon=0.0, Alt=2.68 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009442931041121483, Pitch=-0.011580248363316059, Yaw=-0.44705870747566223
+Global Position: Lat=0.0, Lon=0.0, Alt=2.52 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009395642206072807, Pitch=-0.011584176681935787, Yaw=-0.4471663534641266
+Global Position: Lat=0.0, Lon=0.0, Alt=2.46 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009381888434290886, Pitch=-0.01156423520296812, Yaw=-0.44730663299560547
+Global Position: Lat=0.0, Lon=0.0, Alt=2.55 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009367481805384159, Pitch=-0.011533482931554317, Yaw=-0.4474421739578247
+Global Position: Lat=0.0, Lon=0.0, Alt=2.46 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00935273990035057, Pitch=-0.011525977402925491, Yaw=-0.44754505157470703
+Global Position: Lat=0.0, Lon=0.0, Alt=2.58 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009360715746879578, Pitch=-0.011545178480446339, Yaw=-0.44767147302627563
+Global Position: Lat=0.0, Lon=0.0, Alt=2.55 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009367772378027439, Pitch=-0.011534604243934155, Yaw=-0.44777312874794006
+Global Position: Lat=0.0, Lon=0.0, Alt=2.5 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009361577220261097, Pitch=-0.011546474881470203, Yaw=-0.4478539526462555
+Global Position: Lat=0.0, Lon=0.0, Alt=2.57 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009362232871353626, Pitch=-0.011564753018319607, Yaw=-0.44793498516082764
+Global Position: Lat=0.0, Lon=0.0, Alt=2.53 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009359989315271378, Pitch=-0.011563188396394253, Yaw=-0.4480489194393158
+Global Position: Lat=0.0, Lon=0.0, Alt=2.32 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009375897236168385, Pitch=-0.011569639667868614, Yaw=-0.448172926902771
+Global Position: Lat=0.0, Lon=0.0, Alt=2.66 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009382619522511959, Pitch=-0.011570548638701439, Yaw=-0.4482986330986023
+Global Position: Lat=0.0, Lon=0.0, Alt=2.71 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009363786317408085, Pitch=-0.011548192240297794, Yaw=-0.44838815927505493
+Global Position: Lat=0.0, Lon=0.0, Alt=2.86 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009370673447847366, Pitch=-0.011542586609721184, Yaw=-0.44850078225135803
+Global Position: Lat=0.0, Lon=0.0, Alt=2.41 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009391962550580502, Pitch=-0.01158458273857832, Yaw=-0.44859954714775085
+Global Position: Lat=0.0, Lon=0.0, Alt=2.68 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.0094064399600029, Pitch=-0.011601210571825504, Yaw=-0.44871121644973755
+Global Position: Lat=0.0, Lon=0.0, Alt=2.44 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009401969611644745, Pitch=-0.011613442562520504, Yaw=-0.4488137662410736
+Global Position: Lat=0.0, Lon=0.0, Alt=2.5 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009420624002814293, Pitch=-0.01160602830350399, Yaw=-0.4488990008831024
+Global Position: Lat=0.0, Lon=0.0, Alt=2.42 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009431452490389347, Pitch=-0.011579262092709541, Yaw=-0.44899556040763855
+Global Position: Lat=0.0, Lon=0.0, Alt=2.59 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009407345205545425, Pitch=-0.011609556153416634, Yaw=-0.449112206697464
+Global Position: Lat=0.0, Lon=0.0, Alt=2.55 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009425487369298935, Pitch=-0.01161256805062294, Yaw=-0.4492363929748535
+Global Position: Lat=0.0, Lon=0.0, Alt=2.34 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009417114779353142, Pitch=-0.011591033078730106, Yaw=-0.44933947920799255
+Global Position: Lat=0.0, Lon=0.0, Alt=2.53 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009457707405090332, Pitch=-0.011605389416217804, Yaw=-0.44943058490753174
+Global Position: Lat=0.0, Lon=0.0, Alt=2.73 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009465842507779598, Pitch=-0.011601266451179981, Yaw=-0.4495517909526825
+Global Position: Lat=0.0, Lon=0.0, Alt=2.53 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009456919506192207, Pitch=-0.011597043834626675, Yaw=-0.4496276080608368
+Global Position: Lat=0.0, Lon=0.0, Alt=2.45 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009457466192543507, Pitch=-0.011566833592951298, Yaw=-0.44974076747894287
+Global Position: Lat=0.0, Lon=0.0, Alt=2.65 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009439854882657528, Pitch=-0.011553687043488026, Yaw=-0.4498622715473175
+Global Position: Lat=0.0, Lon=0.0, Alt=2.47 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009416261687874794, Pitch=-0.011542445980012417, Yaw=-0.4499266743659973
+Global Position: Lat=0.0, Lon=0.0, Alt=2.23 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009413792751729488, Pitch=-0.011538674123585224, Yaw=-0.4500533938407898
+Global Position: Lat=0.0, Lon=0.0, Alt=2.35 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009418095462024212, Pitch=-0.011516409926116467, Yaw=-0.4501585066318512
+Global Position: Lat=0.0, Lon=0.0, Alt=2.54 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009414475411176682, Pitch=-0.011498692445456982, Yaw=-0.4502737820148468
+Global Position: Lat=0.0, Lon=0.0, Alt=2.3 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009407698176801205, Pitch=-0.011489790864288807, Yaw=-0.45038530230522156
+Global Position: Lat=0.0, Lon=0.0, Alt=2.66 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009366325102746487, Pitch=-0.011513231322169304, Yaw=-0.45046618580818176
+Global Position: Lat=0.0, Lon=0.0, Alt=2.57 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009344998747110367, Pitch=-0.0115043381229043, Yaw=-0.45054933428764343
+Global Position: Lat=0.0, Lon=0.0, Alt=2.33 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009320400655269623, Pitch=-0.011446820572018623, Yaw=-0.4506914019584656
+Global Position: Lat=0.0, Lon=0.0, Alt=2.33 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00933863501995802, Pitch=-0.011420019902288914, Yaw=-0.4507753252983093
+Global Position: Lat=0.0, Lon=0.0, Alt=2.76 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009344118647277355, Pitch=-0.011426768265664577, Yaw=-0.45086830854415894
+Global Position: Lat=0.0, Lon=0.0, Alt=2.56 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009405099786818027, Pitch=-0.011455783620476723, Yaw=-0.45095255970954895
+Global Position: Lat=0.0, Lon=0.0, Alt=2.59 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009372248314321041, Pitch=-0.011446891352534294, Yaw=-0.4510713219642639
+Global Position: Lat=0.0, Lon=0.0, Alt=2.52 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009368075989186764, Pitch=-0.01143661793321371, Yaw=-0.45118147134780884
+Global Position: Lat=0.0, Lon=0.0, Alt=2.45 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00933809019625187, Pitch=-0.011406494304537773, Yaw=-0.45128676295280457
+Global Position: Lat=0.0, Lon=0.0, Alt=2.65 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00933536235243082, Pitch=-0.011395527049899101, Yaw=-0.45139309763908386
+Global Position: Lat=0.0, Lon=0.0, Alt=2.56 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009362855926156044, Pitch=-0.011394602246582508, Yaw=-0.45147329568862915
+Global Position: Lat=0.0, Lon=0.0, Alt=2.59 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009350502863526344, Pitch=-0.011394504457712173, Yaw=-0.45158401131629944
+Global Position: Lat=0.0, Lon=0.0, Alt=2.27 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009384428150951862, Pitch=-0.011375805363059044, Yaw=-0.45167216658592224
+Global Position: Lat=0.0, Lon=0.0, Alt=2.37 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009366758167743683, Pitch=-0.011345301754772663, Yaw=-0.45174384117126465
+Global Position: Lat=0.0, Lon=0.0, Alt=2.61 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009381410665810108, Pitch=-0.01137897465378046, Yaw=-0.4518515169620514
+Global Position: Lat=0.0, Lon=0.0, Alt=2.32 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009413518942892551, Pitch=-0.011392926797270775, Yaw=-0.45194002985954285
+Global Position: Lat=0.0, Lon=0.0, Alt=2.37 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009395258501172066, Pitch=-0.011400777846574783, Yaw=-0.45206359028816223
+Global Position: Lat=0.0, Lon=0.0, Alt=2.45 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009411942213773727, Pitch=-0.011385465040802956, Yaw=-0.45214736461639404
+Global Position: Lat=0.0, Lon=0.0, Alt=2.6 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009416562505066395, Pitch=-0.011336607858538628, Yaw=-0.4522571265697479
+Global Position: Lat=0.0, Lon=0.0, Alt=2.51 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009433520957827568, Pitch=-0.011349848471581936, Yaw=-0.4523806869983673
+Global Position: Lat=0.0, Lon=0.0, Alt=2.66 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009419847279787064, Pitch=-0.011385983787477016, Yaw=-0.4524838626384735
+Global Position: Lat=0.0, Lon=0.0, Alt=2.61 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009438660927116871, Pitch=-0.011407318525016308, Yaw=-0.452579140663147
+Global Position: Lat=0.0, Lon=0.0, Alt=2.55 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00940417405217886, Pitch=-0.011419667862355709, Yaw=-0.4526869058609009
+Global Position: Lat=0.0, Lon=0.0, Alt=2.49 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009404154494404793, Pitch=-0.011426790617406368, Yaw=-0.45277518033981323
+Global Position: Lat=0.0, Lon=0.0, Alt=2.34 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009401137009263039, Pitch=-0.011463220231235027, Yaw=-0.4528728425502777
+Global Position: Lat=0.0, Lon=0.0, Alt=2.49 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009415924549102783, Pitch=-0.011485633440315723, Yaw=-0.452976793050766
+Global Position: Lat=0.0, Lon=0.0, Alt=2.33 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009427327662706375, Pitch=-0.011501176282763481, Yaw=-0.45308858156204224
+Global Position: Lat=0.0, Lon=0.0, Alt=2.52 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009445124305784702, Pitch=-0.011516056954860687, Yaw=-0.45315149426460266
+Global Position: Lat=0.0, Lon=0.0, Alt=2.36 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009425446391105652, Pitch=-0.011462313123047352, Yaw=-0.4532296657562256
+Global Position: Lat=0.0, Lon=0.0, Alt=2.4 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009409716352820396, Pitch=-0.011426637880504131, Yaw=-0.4533681273460388
+Global Position: Lat=0.0, Lon=0.0, Alt=2.55 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009438551031053066, Pitch=-0.011428775265812874, Yaw=-0.45345455408096313
+Global Position: Lat=0.0, Lon=0.0, Alt=2.66 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009459221735596657, Pitch=-0.011435414664447308, Yaw=-0.45359620451927185
+Global Position: Lat=0.0, Lon=0.0, Alt=2.73 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009449681267142296, Pitch=-0.011438432149589062, Yaw=-0.453664630651474
+Global Position: Lat=0.0, Lon=0.0, Alt=2.41 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009455211460590363, Pitch=-0.011402268894016743, Yaw=-0.45374995470046997
+Global Position: Lat=0.0, Lon=0.0, Alt=2.45 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00950161274522543, Pitch=-0.011385285295546055, Yaw=-0.45385292172431946
+Global Position: Lat=0.0, Lon=0.0, Alt=2.4 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009519606828689575, Pitch=-0.011373325251042843, Yaw=-0.45396873354911804
+Global Position: Lat=0.0, Lon=0.0, Alt=2.39 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009501214139163494, Pitch=-0.011341620236635208, Yaw=-0.4541371762752533
+Global Position: Lat=0.0, Lon=0.0, Alt=2.22 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009459100663661957, Pitch=-0.011320877820253372, Yaw=-0.45422670245170593
+Global Position: Lat=0.0, Lon=0.0, Alt=2.36 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009447800926864147, Pitch=-0.01130701880902052, Yaw=-0.4543166160583496
+Global Position: Lat=0.0, Lon=0.0, Alt=2.46 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009452225640416145, Pitch=-0.011305917985737324, Yaw=-0.45444515347480774
+Global Position: Lat=0.0, Lon=0.0, Alt=2.54 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009476236067712307, Pitch=-0.011295229196548462, Yaw=-0.4545685350894928
+Global Position: Lat=0.0, Lon=0.0, Alt=2.35 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009493562392890453, Pitch=-0.011312468908727169, Yaw=-0.4546654224395752
+Global Position: Lat=0.0, Lon=0.0, Alt=2.71 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009480001404881477, Pitch=-0.011324710212647915, Yaw=-0.45476043224334717
+Global Position: Lat=0.0, Lon=0.0, Alt=2.43 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00950324535369873, Pitch=-0.011318364180624485, Yaw=-0.45487239956855774
+Global Position: Lat=0.0, Lon=0.0, Alt=2.53 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009497009217739105, Pitch=-0.011374709196388721, Yaw=-0.45498359203338623
+Global Position: Lat=0.0, Lon=0.0, Alt=2.49 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009459440596401691, Pitch=-0.011362956836819649, Yaw=-0.4550718367099762
+Global Position: Lat=0.0, Lon=0.0, Alt=2.41 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009443401359021664, Pitch=-0.011323248967528343, Yaw=-0.45518943667411804
+Global Position: Lat=0.0, Lon=0.0, Alt=2.66 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009452145546674728, Pitch=-0.011343938298523426, Yaw=-0.4553146958351135
+Global Position: Lat=0.0, Lon=0.0, Alt=2.48 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00944462325423956, Pitch=-0.011316121555864811, Yaw=-0.45546460151672363
+Global Position: Lat=0.0, Lon=0.0, Alt=2.34 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009436890482902527, Pitch=-0.011319470591843128, Yaw=-0.4555797278881073
+Global Position: Lat=0.0, Lon=0.0, Alt=2.41 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00939575769007206, Pitch=-0.011286678723990917, Yaw=-0.4556603729724884
+Global Position: Lat=0.0, Lon=0.0, Alt=2.5 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009395619854331017, Pitch=-0.011260561645030975, Yaw=-0.45574524998664856
+Global Position: Lat=0.0, Lon=0.0, Alt=2.33 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009401237592101097, Pitch=-0.011268001049757004, Yaw=-0.4558401107788086
+Global Position: Lat=0.0, Lon=0.0, Alt=2.65 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009412060491740704, Pitch=-0.011250710114836693, Yaw=-0.4559462368488312
+Global Position: Lat=0.0, Lon=0.0, Alt=2.49 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009423704817891121, Pitch=-0.011255016550421715, Yaw=-0.4560743570327759
+Global Position: Lat=0.0, Lon=0.0, Alt=2.49 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009437489323318005, Pitch=-0.011281968094408512, Yaw=-0.4561725854873657
+Global Position: Lat=0.0, Lon=0.0, Alt=2.62 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009456844069063663, Pitch=-0.01129082776606083, Yaw=-0.4562796950340271
+Global Position: Lat=0.0, Lon=0.0, Alt=2.69 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009457923471927643, Pitch=-0.011296981014311314, Yaw=-0.45638445019721985
+Global Position: Lat=0.0, Lon=0.0, Alt=2.51 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009493796154856682, Pitch=-0.011279860511422157, Yaw=-0.45646733045578003
+Global Position: Lat=0.0, Lon=0.0, Alt=2.6 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00947317574173212, Pitch=-0.011294852942228317, Yaw=-0.45657777786254883
+Global Position: Lat=0.0, Lon=0.0, Alt=2.65 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009484300389885902, Pitch=-0.011301499791443348, Yaw=-0.45667582750320435
+Global Position: Lat=0.0, Lon=0.0, Alt=2.58 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009498490951955318, Pitch=-0.011254973709583282, Yaw=-0.4567781686782837
+Global Position: Lat=0.0, Lon=0.0, Alt=2.55 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009501788765192032, Pitch=-0.011258476413786411, Yaw=-0.45689457654953003
+Global Position: Lat=0.0, Lon=0.0, Alt=2.63 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009538626298308372, Pitch=-0.0112562645226717, Yaw=-0.456961065530777
+Global Position: Lat=0.0, Lon=0.0, Alt=2.53 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009522859938442707, Pitch=-0.011231653392314911, Yaw=-0.4570632874965668
+Global Position: Lat=0.0, Lon=0.0, Alt=2.59 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009534929879009724, Pitch=-0.011268239468336105, Yaw=-0.4571780860424042
+Global Position: Lat=0.0, Lon=0.0, Alt=2.66 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009542119689285755, Pitch=-0.01128930039703846, Yaw=-0.45733800530433655
+Global Position: Lat=0.0, Lon=0.0, Alt=2.69 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00957081001251936, Pitch=-0.011274349875748158, Yaw=-0.45748549699783325
+Global Position: Lat=0.0, Lon=0.0, Alt=2.51 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009575072675943375, Pitch=-0.01129590068012476, Yaw=-0.4576226472854614
+Global Position: Lat=0.0, Lon=0.0, Alt=2.34 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009582080878317356, Pitch=-0.011312725953757763, Yaw=-0.45773187279701233
+Global Position: Lat=0.0, Lon=0.0, Alt=2.34 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00959810335189104, Pitch=-0.011306353844702244, Yaw=-0.45785433053970337
+Global Position: Lat=0.0, Lon=0.0, Alt=2.52 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009622984565794468, Pitch=-0.011302166618406773, Yaw=-0.4579504132270813
+Global Position: Lat=0.0, Lon=0.0, Alt=2.42 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009599803015589714, Pitch=-0.01131492294371128, Yaw=-0.45802542567253113
+Global Position: Lat=0.0, Lon=0.0, Alt=2.75 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009608537890017033, Pitch=-0.011299383826553822, Yaw=-0.4581390917301178
+Global Position: Lat=0.0, Lon=0.0, Alt=2.25 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009573288261890411, Pitch=-0.011309542693197727, Yaw=-0.4582577049732208
+Global Position: Lat=0.0, Lon=0.0, Alt=2.44 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009562002494931221, Pitch=-0.011328108608722687, Yaw=-0.4583749771118164
+Global Position: Lat=0.0, Lon=0.0, Alt=2.46 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00956368912011385, Pitch=-0.011293862946331501, Yaw=-0.458484947681427
+Global Position: Lat=0.0, Lon=0.0, Alt=2.39 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009574131108820438, Pitch=-0.011299479752779007, Yaw=-0.45858126878738403
+Global Position: Lat=0.0, Lon=0.0, Alt=2.32 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009588104672729969, Pitch=-0.01135321520268917, Yaw=-0.4586752951145172
+Global Position: Lat=0.0, Lon=0.0, Alt=2.38 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009547796100378036, Pitch=-0.011326590552926064, Yaw=-0.45879802107810974
+Global Position: Lat=0.0, Lon=0.0, Alt=2.62 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009547236375510693, Pitch=-0.01132012065500021, Yaw=-0.4589088559150696
+Global Position: Lat=0.0, Lon=0.0, Alt=2.66 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009563568979501724, Pitch=-0.011318664997816086, Yaw=-0.45904600620269775
+Global Position: Lat=0.0, Lon=0.0, Alt=2.66 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009543828666210175, Pitch=-0.011313178576529026, Yaw=-0.45914652943611145
+Global Position: Lat=0.0, Lon=0.0, Alt=2.42 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009534027427434921, Pitch=-0.01133711077272892, Yaw=-0.459250271320343
+Global Position: Lat=0.0, Lon=0.0, Alt=2.49 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009465162642300129, Pitch=-0.011305528692901134, Yaw=-0.45936083793640137
+Global Position: Lat=0.0, Lon=0.0, Alt=2.52 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009457295760512352, Pitch=-0.011300324462354183, Yaw=-0.45945239067077637
+Global Position: Lat=0.0, Lon=0.0, Alt=2.48 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009490430355072021, Pitch=-0.0113043999299407, Yaw=-0.4595276117324829
+Global Position: Lat=0.0, Lon=0.0, Alt=2.44 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009490233846008778, Pitch=-0.01129748672246933, Yaw=-0.45963409543037415
+Global Position: Lat=0.0, Lon=0.0, Alt=2.36 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009493684396147728, Pitch=-0.011305037885904312, Yaw=-0.4597536623477936
+Global Position: Lat=0.0, Lon=0.0, Alt=2.63 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009497273713350296, Pitch=-0.011295790784060955, Yaw=-0.45986777544021606
+Global Position: Lat=0.0, Lon=0.0, Alt=2.49 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00950341671705246, Pitch=-0.0113249272108078, Yaw=-0.4599614441394806
+Global Position: Lat=0.0, Lon=0.0, Alt=2.45 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009521298110485077, Pitch=-0.01133799646049738, Yaw=-0.4600755274295807
+Global Position: Lat=0.0, Lon=0.0, Alt=2.67 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009537962265312672, Pitch=-0.011336670257151127, Yaw=-0.4601685702800751
+Global Position: Lat=0.0, Lon=0.0, Alt=2.64 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009531091898679733, Pitch=-0.011337156407535076, Yaw=-0.4602677822113037
+Global Position: Lat=0.0, Lon=0.0, Alt=2.69 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009568803012371063, Pitch=-0.0113444272428751, Yaw=-0.4603840112686157
+Global Position: Lat=0.0, Lon=0.0, Alt=2.42 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009572762064635754, Pitch=-0.01134765986353159, Yaw=-0.46047914028167725
+Global Position: Lat=0.0, Lon=0.0, Alt=2.64 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009593150578439236, Pitch=-0.011343635618686676, Yaw=-0.46057307720184326
+Global Position: Lat=0.0, Lon=0.0, Alt=2.77 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009604993276298046, Pitch=-0.011371882632374763, Yaw=-0.460687518119812
+Global Position: Lat=0.0, Lon=0.0, Alt=2.68 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009598122909665108, Pitch=-0.011376664973795414, Yaw=-0.4607559144496918
+Global Position: Lat=0.0, Lon=0.0, Alt=2.66 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009563087485730648, Pitch=-0.011345050297677517, Yaw=-0.4608660340309143
+Global Position: Lat=0.0, Lon=0.0, Alt=2.41 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009566373191773891, Pitch=-0.01135067269206047, Yaw=-0.46095889806747437
+Global Position: Lat=0.0, Lon=0.0, Alt=2.56 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00955984741449356, Pitch=-0.011364367790520191, Yaw=-0.4610802233219147
+Global Position: Lat=0.0, Lon=0.0, Alt=2.62 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009562047198414803, Pitch=-0.011411243118345737, Yaw=-0.4612015187740326
+Global Position: Lat=0.0, Lon=0.0, Alt=2.56 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00958354864269495, Pitch=-0.011455151252448559, Yaw=-0.4613035321235657
+Global Position: Lat=0.0, Lon=0.0, Alt=2.75 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009578525088727474, Pitch=-0.01144527830183506, Yaw=-0.46144571900367737
+Global Position: Lat=0.0, Lon=0.0, Alt=2.61 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009595802053809166, Pitch=-0.011451676487922668, Yaw=-0.46158650517463684
+Global Position: Lat=0.0, Lon=0.0, Alt=2.63 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00957372784614563, Pitch=-0.0114738829433918, Yaw=-0.4616708755493164
+Global Position: Lat=0.0, Lon=0.0, Alt=2.31 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009583217091858387, Pitch=-0.011482534930109978, Yaw=-0.461763858795166
+Global Position: Lat=0.0, Lon=0.0, Alt=2.64 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00957962404936552, Pitch=-0.011485664173960686, Yaw=-0.46187567710876465
+Global Position: Lat=0.0, Lon=0.0, Alt=2.6 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009555678814649582, Pitch=-0.011475201696157455, Yaw=-0.4619828164577484
+Global Position: Lat=0.0, Lon=0.0, Alt=2.54 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009550422430038452, Pitch=-0.011461269110441208, Yaw=-0.4620969891548157
+Global Position: Lat=0.0, Lon=0.0, Alt=2.51 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009514907374978065, Pitch=-0.011448587290942669, Yaw=-0.4622233808040619
+Global Position: Lat=0.0, Lon=0.0, Alt=2.54 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009529734030365944, Pitch=-0.011450013145804405, Yaw=-0.4623684287071228
+Global Position: Lat=0.0, Lon=0.0, Alt=2.76 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009491337463259697, Pitch=-0.011447574011981487, Yaw=-0.462495356798172
+Global Position: Lat=0.0, Lon=0.0, Alt=2.68 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00949228648096323, Pitch=-0.011468954384326935, Yaw=-0.46260371804237366
+Global Position: Lat=0.0, Lon=0.0, Alt=2.73 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009534036740660667, Pitch=-0.011475629173219204, Yaw=-0.4627096652984619
+Global Position: Lat=0.0, Lon=0.0, Alt=2.84 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.0095285102725029, Pitch=-0.011475528590381145, Yaw=-0.4628012180328369
+Global Position: Lat=0.0, Lon=0.0, Alt=2.78 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009550734423100948, Pitch=-0.011476553976535797, Yaw=-0.4629412293434143
+Global Position: Lat=0.0, Lon=0.0, Alt=2.61 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009533505886793137, Pitch=-0.01152903400361538, Yaw=-0.46305063366889954
+Global Position: Lat=0.0, Lon=0.0, Alt=2.86 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009540985338389874, Pitch=-0.011586619541049004, Yaw=-0.46315598487854004
+Global Position: Lat=0.0, Lon=0.0, Alt=2.73 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009552422910928726, Pitch=-0.01159568689763546, Yaw=-0.4632851481437683
+Global Position: Lat=0.0, Lon=0.0, Alt=2.49 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009553126990795135, Pitch=-0.011552191339433193, Yaw=-0.46335479617118835
+Global Position: Lat=0.0, Lon=0.0, Alt=2.81 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009548565372824669, Pitch=-0.011552561074495316, Yaw=-0.4634372889995575
+Global Position: Lat=0.0, Lon=0.0, Alt=2.81 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009553457610309124, Pitch=-0.011521388776600361, Yaw=-0.4635555148124695
+Global Position: Lat=0.0, Lon=0.0, Alt=2.46 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009541892446577549, Pitch=-0.011558783240616322, Yaw=-0.4636390507221222
+Global Position: Lat=0.0, Lon=0.0, Alt=2.49 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009526146575808525, Pitch=-0.011568780988454819, Yaw=-0.4637226462364197
+Global Position: Lat=0.0, Lon=0.0, Alt=2.39 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009518220089375973, Pitch=-0.011555655859410763, Yaw=-0.463805228471756
+Global Position: Lat=0.0, Lon=0.0, Alt=2.49 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009485479444265366, Pitch=-0.011559422127902508, Yaw=-0.46392738819122314
+Global Position: Lat=0.0, Lon=0.0, Alt=2.57 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009482267312705517, Pitch=-0.011564713902771473, Yaw=-0.46401476860046387
+Global Position: Lat=0.0, Lon=0.0, Alt=2.4 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009490210562944412, Pitch=-0.011579638347029686, Yaw=-0.4641434848308563
+Global Position: Lat=0.0, Lon=0.0, Alt=2.48 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00947265699505806, Pitch=-0.011614019051194191, Yaw=-0.4642403721809387
+Global Position: Lat=0.0, Lon=0.0, Alt=2.68 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009474084712564945, Pitch=-0.011585233733057976, Yaw=-0.4643424153327942
+Global Position: Lat=0.0, Lon=0.0, Alt=2.62 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009469162672758102, Pitch=-0.011591802351176739, Yaw=-0.4644707143306732
+Global Position: Lat=0.0, Lon=0.0, Alt=2.6 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009445802308619022, Pitch=-0.01156441867351532, Yaw=-0.46459078788757324
+Global Position: Lat=0.0, Lon=0.0, Alt=2.56 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009423395618796349, Pitch=-0.011591886170208454, Yaw=-0.4646744728088379
+Global Position: Lat=0.0, Lon=0.0, Alt=2.82 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009420647285878658, Pitch=-0.011594465002417564, Yaw=-0.4647802710533142
+Global Position: Lat=0.0, Lon=0.0, Alt=2.74 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00942175928503275, Pitch=-0.011592396534979343, Yaw=-0.4648776054382324
+Global Position: Lat=0.0, Lon=0.0, Alt=2.57 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009444276802241802, Pitch=-0.0115639828145504, Yaw=-0.46495720744132996
+Global Position: Lat=0.0, Lon=0.0, Alt=2.55 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009444579482078552, Pitch=-0.011594578623771667, Yaw=-0.4650830924510956
+Global Position: Lat=0.0, Lon=0.0, Alt=2.51 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009436271153390408, Pitch=-0.011584036983549595, Yaw=-0.4651826024055481
+Global Position: Lat=0.0, Lon=0.0, Alt=2.5 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00943417102098465, Pitch=-0.011546709574759007, Yaw=-0.46529343724250793
+Global Position: Lat=0.0, Lon=0.0, Alt=2.47 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009386492893099785, Pitch=-0.011540539562702179, Yaw=-0.4653793275356293
+Global Position: Lat=0.0, Lon=0.0, Alt=2.75 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009381609037518501, Pitch=-0.011546503752470016, Yaw=-0.46550530195236206
+Global Position: Lat=0.0, Lon=0.0, Alt=2.4 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00938643142580986, Pitch=-0.011542673222720623, Yaw=-0.46562615036964417
+Global Position: Lat=0.0, Lon=0.0, Alt=2.58 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009374263696372509, Pitch=-0.011523621156811714, Yaw=-0.465725839138031
+Global Position: Lat=0.0, Lon=0.0, Alt=2.36 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009366103447973728, Pitch=-0.011507111601531506, Yaw=-0.4658222496509552
+Global Position: Lat=0.0, Lon=0.0, Alt=2.64 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009376389905810356, Pitch=-0.011492974124848843, Yaw=-0.4658980369567871
+Global Position: Lat=0.0, Lon=0.0, Alt=2.5 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009357517585158348, Pitch=-0.011487939395010471, Yaw=-0.4659990668296814
+Global Position: Lat=0.0, Lon=0.0, Alt=2.72 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009378490969538689, Pitch=-0.01151770818978548, Yaw=-0.4660967290401459
+Global Position: Lat=0.0, Lon=0.0, Alt=2.43 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009370957501232624, Pitch=-0.011489144526422024, Yaw=-0.46618807315826416
+Global Position: Lat=0.0, Lon=0.0, Alt=2.47 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009401676245033741, Pitch=-0.01153599750250578, Yaw=-0.4662913978099823
+Global Position: Lat=0.0, Lon=0.0, Alt=2.45 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00946134701371193, Pitch=-0.011563261039555073, Yaw=-0.4664308726787567
+Global Position: Lat=0.0, Lon=0.0, Alt=2.47 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009486238472163677, Pitch=-0.011559348553419113, Yaw=-0.46652650833129883
+Global Position: Lat=0.0, Lon=0.0, Alt=2.69 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009483691304922104, Pitch=-0.011561352759599686, Yaw=-0.4666401445865631
+Global Position: Lat=0.0, Lon=0.0, Alt=2.55 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009504258632659912, Pitch=-0.011571090668439865, Yaw=-0.4667178690433502
+Global Position: Lat=0.0, Lon=0.0, Alt=2.55 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009507879614830017, Pitch=-0.011577211320400238, Yaw=-0.46682795882225037
+Global Position: Lat=0.0, Lon=0.0, Alt=2.42 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009510630741715431, Pitch=-0.011565503664314747, Yaw=-0.4669458568096161
+Global Position: Lat=0.0, Lon=0.0, Alt=2.54 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009490512311458588, Pitch=-0.011568490415811539, Yaw=-0.4670615494251251
+Global Position: Lat=0.0, Lon=0.0, Alt=2.68 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.0094807930290699, Pitch=-0.011548166163265705, Yaw=-0.46714022755622864
+Global Position: Lat=0.0, Lon=0.0, Alt=2.49 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009496803395450115, Pitch=-0.011532558128237724, Yaw=-0.46723464131355286
+Global Position: Lat=0.0, Lon=0.0, Alt=2.44 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009488094598054886, Pitch=-0.011516256257891655, Yaw=-0.4673261344432831
+Global Position: Lat=0.0, Lon=0.0, Alt=2.49 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00949934870004654, Pitch=-0.011515486054122448, Yaw=-0.4674451947212219
+Global Position: Lat=0.0, Lon=0.0, Alt=2.67 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009455875493586063, Pitch=-0.011490341275930405, Yaw=-0.4675343632698059
+Global Position: Lat=0.0, Lon=0.0, Alt=2.47 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.00943089835345745, Pitch=-0.011489749886095524, Yaw=-0.46762239933013916
+Global Position: Lat=0.0, Lon=0.0, Alt=2.57 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009422334842383862, Pitch=-0.011514685116708279, Yaw=-0.46774402260780334
+Global Position: Lat=0.0, Lon=0.0, Alt=2.33 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009423000738024712, Pitch=-0.01151597686111927, Yaw=-0.4678616523742676
+Global Position: Lat=0.0, Lon=0.0, Alt=2.6 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009425696916878223, Pitch=-0.011513334698975086, Yaw=-0.46794819831848145
+Global Position: Lat=0.0, Lon=0.0, Alt=2.62 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009424149990081787, Pitch=-0.011514397338032722, Yaw=-0.46804291009902954
+Global Position: Lat=0.0, Lon=0.0, Alt=2.59 m
+Battery: 0.24 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009407026693224907, Pitch=-0.011530037969350815, Yaw=-0.4681507349014282
+Global Position: Lat=0.0, Lon=0.0, Alt=2.57 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009382253512740135, Pitch=-0.011543852277100086, Yaw=-0.46825820207595825
+Global Position: Lat=0.0, Lon=0.0, Alt=2.62 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009379665367305279, Pitch=-0.011520068161189556, Yaw=-0.46835362911224365
+Global Position: Lat=0.0, Lon=0.0, Alt=2.49 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009432819671928883, Pitch=-0.011522598564624786, Yaw=-0.46848270297050476
+Global Position: Lat=0.0, Lon=0.0, Alt=2.63 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009434487670660019, Pitch=-0.011492145247757435, Yaw=-0.468584269285202
+Global Position: Lat=0.0, Lon=0.0, Alt=2.3 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009465314447879791, Pitch=-0.01148492656648159, Yaw=-0.46869200468063354
+Global Position: Lat=0.0, Lon=0.0, Alt=2.52 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009488419629633427, Pitch=-0.011489116586744785, Yaw=-0.46880269050598145
+Global Position: Lat=0.0, Lon=0.0, Alt=2.41 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009478145278990269, Pitch=-0.011516493745148182, Yaw=-0.46890783309936523
+Global Position: Lat=0.0, Lon=0.0, Alt=2.36 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009489215910434723, Pitch=-0.011517509818077087, Yaw=-0.46904847025871277
+Global Position: Lat=0.0, Lon=0.0, Alt=2.46 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009516562335193157, Pitch=-0.01146511361002922, Yaw=-0.4691404700279236
+Global Position: Lat=0.0, Lon=0.0, Alt=2.27 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Attitude: Roll=-0.009500683285295963, Pitch=-0.011425241827964783, Yaw=-0.46921467781066895
+Global Position: Lat=0.0, Lon=0.0, Alt=2.48 m
+Battery: 0.23 V, -0.01 A, -1%
+Throttle: 0
+Traceback (most recent call last):
+  File "/home/ellen_bailey/Drone_Mavlink_mission/Data_Log.py", line 40, in <module>
+    msg = connection.recv_match(
+        type=['GLOBAL_POSITION_INT', 'ATTITUDE', 'SYS_STATUS', 'RC_CHANNELS'],
+        blocking=False
+    )
+  File "/home/ellen_bailey/drone_env/lib/python3.13/site-packages/pymavlink/mavutil.py", line 518, in recv_match
+    m = self.recv_msg()
+  File "/home/ellen_bailey/drone_env/lib/python3.13/site-packages/pymavlink/mavutil.py", line 481, in recv_msg
+    s = self.recv(n)
+  File "/home/ellen_bailey/drone_env/lib/python3.13/site-packages/pymavlink/mavutil.py", line 1008, in recv
+    ret = self.port.read(n)
+  File "/home/ellen_bailey/drone_env/lib/python3.13/site-packages/serial/serialposix.py", line 595, in read
+    raise SerialException(
+        'device reports readiness to read but returned no data '
+        '(device disconnected or multiple access on port?)')
+serial.serialutil.SerialException: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
