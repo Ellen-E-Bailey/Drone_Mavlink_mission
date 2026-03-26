@@ -231,8 +231,8 @@ if __name__ == "__main__":
     # master = mavutil.mavlink_connection('/dev/serial0', baud=921600)
 
     print("[SYSTEM] Connecting to FC…")
-    master = mavutil.mavlink_connection('udpin:0.0.0.0:14550')
-    #master = mavutil.mavlink_connection('/dev/serial0', baud=921600)
+    #master = mavutil.mavlink_connection('udpin:0.0.0.0:14550')
+    master = mavutil.mavlink_connection('/dev/serial0', baud=921600)
     master.wait_heartbeat()
     print(f"[SYSTEM] Connected: sys={master.target_system}, comp={master.target_component}")
 

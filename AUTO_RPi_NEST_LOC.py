@@ -356,10 +356,7 @@ if __name__ == "__main__":
         
 
         mission = AutoMission(master)
-        #lat0,lon0, alt0=mission.get_global_position()
-        
-        #estimator=NestEstimator(lat0, lon0)
-
+     
         # Example: 90° bearing, 20 m
         bearing = 90.0
         distance = 20.0
