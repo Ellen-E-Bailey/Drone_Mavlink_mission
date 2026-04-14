@@ -458,7 +458,9 @@ for its in range(iterations):
     dt, measure_heading_rel, heading_std = sim.sample_dt_and_bearing(lat0, lon0,heading_abs)
     #ABSOLUTE DRONE HEADING WITH RELATIVE MEASUREMENT. RETURNS ABSOLUTE HEADING
     dist_move,move_heading_abs=Nest.add_measurement(lat0, lon0,heading_abs,measure_heading_rel,heading_std, dt, label)
-    Nest.save_plot("Test",true_nest=(true_lat,true_lon))
+    folder = f"Probability_Plots/{datetime.now().strftime('%Y%m%d_%H%M%S')}/"
+    os.makedirs(folder, exist_ok=True)
+    Nest.save_plot(folder+"M1",true_nest=(true_lat,true_lon))
     move_heading_abs=move_heading_abs+heading_std
     lat,lon=Nest.compute_next_waypoint(move_heading_abs, dist_move, lat0, lon0)
     print("Next drone Location: ", lat,lon)
@@ -521,7 +523,7 @@ for its in range(iterations):
                               
         # 4) MOVE DRONE
         Total_distance += dist_move
-        Nest.save_plot(f"Test{i}", true_nest=(true_lat, true_lon))
+        Nest.save_plot(folder+f"M{i}", true_nest=(true_lat, true_lon))
        
         # 5) Use absolute heading, direct distance and current position to find next waypoint.
         #For this sim works best with giving heading and distance
