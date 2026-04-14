@@ -15,21 +15,19 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 
-#============================================================
-#   NEST ESTIMATION CLASS
-#============================================================
-
 class NestEstimator:
     def __init__(self, lat0, lon0, grid_size=300, span=800):
         self.lat0 = lat0
         self.lon0 = lon0
 
-        self.u_mean = 6.66
-        self.u_std = 2.31
-        self.path_std = 200
+        #Hornet speed values from Hornet Handbook, Dr. Sarah Bunker 2022
+        self.u_mean = 6.66 #mean flight speed
+        self.u_std = 2.31 #deviation from flight speed
+        self.path_std = 200 #Tune this uncertainty (based of Roja-Nossa)
+        self.t_n=45 #unloading time (how long hornets spend at nest)
 
         self.grid_size = grid_size
-        self.span = span
+        self.span = span #Foraging distance of hornet
 
         x = np.linspace(-span, span, grid_size)
         y = np.linspace(-span, span, grid_size)
@@ -38,7 +36,7 @@ class NestEstimator:
         self.P = np.zeros_like(self.X, dtype=float)
         self.measurements = []
 
-    # ----------------------------
+
     # Coordinate transforms
     # ----------------------------
     def latlon_to_xy(self, lat, lon):
@@ -62,19 +60,29 @@ class NestEstimator:
         y = r * np.cos(np.radians(g))
         return self.xy_to_latlon(x, y)
 
-    # ----------------------------
+    
     # Likelihood model
     # ----------------------------
     def radius_stats(self, dt):
-        r_mean = dt * self.u_mean / 2
-        r_std_speed = dt * self.u_std / 2
+        r_mean = (dt-self.t_n) * self.u_mean / 2
+        r_std_speed = (dt-self.t_n) * self.u_std / 2
         r_std = np.sqrt(r_std_speed**2 + self.path_std**2)
         return r_mean, r_std
+    
+    def bearing_field(self, dx, dy):
+        """Returns bearing (deg) from drone position (dx,dy) to each grid point."""
+        angles = np.degrees(np.arctan2(self.X - dx, self.Y - dy))  
+        return angles
+
 
     def gaussian_likelihood(self, dist, r_mean, r_std):
         return np.exp(-0.5 * ((dist - r_mean) / r_std)**2)
+    
+    def angular_likelihood(theta, theta_meas, theta_std):
+        dtheta = (theta - theta_meas + 180) % 360 - 180 #handles angle wrapping
+        return np.exp(-0.5 * (dtheta / theta_std)**2)
 
-    # ----------------------------
+   
     # Add measurement
     # ----------------------------
     def add_measurement(self, lat, lon, dt, label):
@@ -87,14 +95,13 @@ class NestEstimator:
         self.measurements.append((dx, dy, label))
         return r_mean
 
-    # ----------------------------
     # Compute next waypoint
     # ----------------------------
     def compute_next_waypoint(self, heading_deg, r_mean, lat, lon):
         # Move r_mean metres along heading_deg
         return self.polar_to_latlon(r_mean, heading_deg, lat, lon)
 
-    # ----------------------------
+    
     # Save plot
     # ----------------------------
     def save_plot(self, filename):
@@ -118,7 +125,7 @@ class NestEstimator:
         plt.savefig(filename, dpi=200)
         plt.close()
 
-    # ----------------------------
+   
     # Save visited waypoints
     # ----------------------------
     def save_waypoints(self, filename, waypoint_list):
@@ -127,9 +134,6 @@ class NestEstimator:
             for lat, lon in waypoint_list:
                 f.write(f"{lat},{lon}\n")
                 
-# ============================================================
-#   LOGGER (uses existing MAVLink connection)
-# ============================================================
 
 class MavlinkLogger:
     def __init__(self, mav_connection, log_dir='logs'):
@@ -221,9 +225,6 @@ class MavlinkLogger:
         print(f"[LOGGER] Closed log file: {self.path}")
 
 
-# ============================================================
-#   MISSION (single AUTO + LAND)
-# ============================================================
 
 class AutoMission:
     def __init__(self, connection):
@@ -334,14 +335,14 @@ class AutoMission:
             t.sleep(0.1)
 
 
-# ============================================================
-#   MAIN 
-# ============================================================
+
+#   MAIN CODE
+
 
 if __name__ == "__main__":
-    # For SITL on Windows:
+    # For SITL:
     # master = mavutil.mavlink_connection('udpin:0.0.0.0:14550')
-    # For RPi real drone:
+    # For RPi:
     # master = mavutil.mavlink_connection('/dev/serial0', baud=921600)
 
     print("[SYSTEM] Connecting to FC…")

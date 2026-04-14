@@ -129,7 +129,6 @@ class AutoMission:
 
     def compute_global_waypoint(self, bearing_deg, distance_m):
         """
-        Option A assumption:
         - ATTITUDE.yaw ≈ 0° when pointing North
         - positive yaw clockwise
         - bearing_deg: clockwise from nose
