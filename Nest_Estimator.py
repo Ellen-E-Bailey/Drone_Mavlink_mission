@@ -16,7 +16,7 @@ import matplotlib.pyplot as plt
 
 
 class NestEstimator:
-    def __init__(self, lat0, lon0, grid_size=500, span=1000):
+    def __init__(self, lat0, lon0, grid_size=1000, span=1000):
         self.lat0 = lat0
         self.lon0 = lon0
 
@@ -35,7 +35,7 @@ class NestEstimator:
         y = np.linspace(-span, span, grid_size)
         self.X, self.Y = np.meshgrid(x, y)
 
-        self.P = np.zeros_like(self.X, dtype=float)
+        self.P = np.ones_like(self.X, dtype=float)
         self.measurements = []
 
 
@@ -100,8 +100,8 @@ class NestEstimator:
         radial= self.gaussian_likelihood(dist, r_mean, r_std)
         angular= self.angular_likelihood(thetas, meas_bearing_abs, heading_std)
    
-        self.P += radial*angular
-        self.measurements.append((dx, dy, label,heading_rel))
+        self.P = self.P*radial*angular
+        self.measurements.append((dx, dy, label,heading_abs,heading_rel))
         move_heading= meas_bearing_abs
         if distance==None:
             dist_move=r_mean+r_std/2
@@ -144,12 +144,12 @@ class NestEstimator:
                 dx, dy, label = item
                 heading = None
             else:
-                dx, dy, label, heading = item
+                dx, dy, label,heading_abs, heading_rel = item
     
             plt.scatter(dx, dy, c='red', s=30, edgecolor='k', zorder=5)
             plt.text(dx + 10, dy + 10, label, color='white', fontsize=9, weight='bold', zorder=6)
        
-            rad = np.radians(heading)
+            rad = np.radians(heading_abs)
             dx_arrow = 100 * np.sin(rad)   # East component
             dy_arrow = 100 * np.cos(rad)   # North component
             from matplotlib.patches import FancyArrowPatch
@@ -165,7 +165,7 @@ class NestEstimator:
             if abs(tx) <= 90 and abs(ty) <= 180:                
                 tx, ty = self.latlon_to_xy(tx, ty) 
                 
-            plt.scatter(tx, ty, c='yellow', marker='*', s=200, edgecolor='black', linewidth=1.2, zorder=10)
+            plt.scatter(tx, ty, c='yellow', marker='*', s=self.span*2/10, edgecolor='black', linewidth=1.2, zorder=10)
             plt.text(tx + 10, ty + 10, "NEST", color='black', fontsize=10, weight='bold', zorder=11)
             mm=self.get_map_max_xy()
             map_x, map_y, _, _, _ = mm
@@ -175,7 +175,7 @@ class NestEstimator:
         
         plt.xlabel("East (m)")
         plt.ylabel("North (m)")
-        plt.title("Bayesian Likelihood Field")
+        plt.title("Probability Field")
         plt.axis('equal')
         plt.tight_layout()
         plt.savefig(filename, dpi=200)
@@ -251,7 +251,7 @@ class NestEstimator:
         """
         if measurement_index is None:
             measurement_index = 0
-        if measurement_index < 3:
+        if measurement_index < 4:
             return None
 
         if np.max(self.P) <= 0:
@@ -314,10 +314,12 @@ class NestEstimator:
         if dist_to_target < min_separation:
             return None
 
+      
+        waypoint_lat, waypoint_lon=self.xy_to_latlon(tx, ty, self.lat0, self.lon0)
         heading_abs = m.degrees(m.atan2(dx, dy)) % 360.0
     
-        return float(dist_to_target), float(heading_abs), (tx, ty)
-    
+        return float(waypoint_lat), float(waypoint_lon), (tx, ty)
+        
     def get_nest_location(self):
         mm=self.get_map_max_xy()
         map_x, map_y, _, _, _ = mm
@@ -441,7 +443,7 @@ def get_pose(): #Replace with AutoMission() get_pose
 Num_measurements=[]
 Distances=[]
 Errors=[]
-iterations=1
+iterations=15
 
 for its in range(iterations):
     #Initialise
@@ -454,6 +456,10 @@ for its in range(iterations):
     
     #Measurement 1
     label="M1"
+    print("-----------------------------------------------------------")
+    print("Measurement 1")
+    print("-----------------------------------------------------------") 
+
     #RELATIVE MEASUREMENT
     dt, measure_heading_rel, heading_std = sim.sample_dt_and_bearing(lat0, lon0,heading_abs)
     #ABSOLUTE DRONE HEADING WITH RELATIVE MEASUREMENT. RETURNS ABSOLUTE HEADING
@@ -461,7 +467,6 @@ for its in range(iterations):
     folder = f"Probability_Plots/{datetime.now().strftime('%Y%m%d_%H%M%S')}/"
     os.makedirs(folder, exist_ok=True)
     Nest.save_plot(folder+"M1",true_nest=(true_lat,true_lon))
-    move_heading_abs=move_heading_abs+heading_std
     lat,lon=Nest.compute_next_waypoint(move_heading_abs, dist_move, lat0, lon0)
     print("Next drone Location: ", lat,lon)
     Area=Nest.check_certainty()
@@ -472,16 +477,15 @@ for its in range(iterations):
     move_drone=None
     Total_distance+=dist_move
     heading=move_heading_abs
-    while ( Area>200 and i<30):
-        print("-----------------------------------------------------------")
+    while ( Area>10 and i<30):
+        print("----------------------------------------------------------")
         print(f"Measurement {i}")
         print("-----------------------------------------------------------") 
         label=f"M{i}"
         
         # 1) SENSOR MEASUREMENT (relative bearing)
         dt, bearing_rel, bearing_std = sim.sample_dt_and_bearing(lat, lon, heading)
-
-
+        
         # 2) UPDATE POSTERIOR (convert rel to abs inside add_measurement)
         dist_move, move_heading_abs = Nest.add_measurement(
             lat, lon,
@@ -503,14 +507,14 @@ for its in range(iterations):
                 lat, lon,
                 heading,
                 measurement_index=i,
-                confidence_level=0.75,
+                confidence_level=0.9,
                 low_mode='local_minima',
             )
     
             if res is None:
                 heading_next = move_heading_abs
             else:
-                dist_move, heading_next, target_xy = res
+                lat,lon,t_xy = res
                 heading_next=move_heading_abs +bearing_std/(i+3) #Scuffed recalculation of heading that somehow works
         
         #LAT LON OF PEAK PROBABILITY FIELD
@@ -528,12 +532,13 @@ for its in range(iterations):
         # 5) Use absolute heading, direct distance and current position to find next waypoint.
         #For this sim works best with giving heading and distance
         #but on drone can just move to a lat/lon that is optimal and .get_current_pose() returns the new heading 
+        """
         lat, lon = Nest.compute_next_waypoint(
             heading_next,   # absolute heading
             dist_move,
             lat, lon
         )
-        
+        """
        
             
         print("Next drone Location: ", lat,lon)
