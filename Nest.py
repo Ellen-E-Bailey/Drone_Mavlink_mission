@@ -167,7 +167,7 @@ class NestEstimator:
         
         plt.xlabel("East (m)")
         plt.ylabel("North (m)")
-        plt.title("Probability Field")
+        plt.title(f"Probability Field at {datetime.now().strftime('%Y%m%d_%H%M%S')}")
         plt.axis('equal')
         plt.tight_layout()
         plt.savefig(filename, dpi=200)
