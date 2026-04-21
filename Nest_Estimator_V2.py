@@ -406,7 +406,7 @@ Num_measurements=[]
 Distances=[]
 Errors=[]
 iterations=1
-save=False
+save=True
 
 for its in range(iterations):
     #Initialise
