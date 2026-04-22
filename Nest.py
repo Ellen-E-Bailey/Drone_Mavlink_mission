@@ -665,7 +665,7 @@ try:
     sim=NestSimulator(lat0, lon0)
     Nest=NestEstimator(lat0, lon0)
     
-    true_lat, true_lon=sim.place_set_nest(60, 100)
+    true_lat, true_lon=sim.place_set_nest(40, 60)
     #-----------------------------------------------------------------------
     
     
