@@ -22,7 +22,7 @@ class NestEstimator:
         #Hornet speed values from Hornet Handbook, Dr. Sarah Bunker 2022
         self.u_mean = 5.36 #mean flight speed
         self.u_std = 1.825 #deviation from flight speed
-        self.path_std = 100 #Tune this uncertainty (based of Rojas-Nossa)
+        self.path_std = 70 #Tune this uncertainty (based of Rojas-Nossa)
         self.t_n=45 #unloading time (how long hornets spend at nest)
 
         self.grid_size = grid_size
@@ -668,7 +668,7 @@ try:
     sim=NestSimulator(lat0, lon0)
     Nest=NestEstimator(lat0, lon0)
     
-    true_lat, true_lon=sim.place_set_nest(-30, 20) #(East, North (m))
+    true_lat, true_lon=sim.place_set_nest(-20, 15) #(East, North (m))
     #-----------------------------------------------------------------------
     
     
