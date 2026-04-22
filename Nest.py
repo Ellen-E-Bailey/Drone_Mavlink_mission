@@ -647,8 +647,8 @@ class AutoMission:
 #CONNECT TO FLIGHT CONTROLLER
 #-------------------------------------------------------
 print("[SYSTEM] Connecting to FC…")
-master = mavutil.mavlink_connection('udpin:0.0.0.0:14550') #Windows SITL
-#master = mavutil.mavlink_connection('/dev/serial0', baud=921600) #RPi
+#master = mavutil.mavlink_connection('udpin:0.0.0.0:14550') #Windows SITL
+master = mavutil.mavlink_connection('/dev/serial0', baud=921600) #RPi
 master.wait_heartbeat()
 print(f"[SYSTEM] Connected: sys={master.target_system}, comp={master.target_component}")
 #-------------------------------------------------------
