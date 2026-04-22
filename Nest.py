@@ -22,7 +22,7 @@ class NestEstimator:
         #Hornet speed values from Hornet Handbook, Dr. Sarah Bunker 2022
         self.u_mean = 5.36 #mean flight speed
         self.u_std = 1.825 #deviation from flight speed
-        self.path_std = 200 #Tune this uncertainty (based of Rojas-Nossa)
+        self.path_std = 100 #Tune this uncertainty (based of Rojas-Nossa)
         self.t_n=45 #unloading time (how long hornets spend at nest)
 
         self.grid_size = grid_size
@@ -637,6 +637,8 @@ class AutoMission:
 
             # loop continues until disarmed or timeout
 
+             
+        
 
 
 
@@ -645,8 +647,8 @@ class AutoMission:
 #CONNECT TO FLIGHT CONTROLLER
 #-------------------------------------------------------
 print("[SYSTEM] Connecting to FC…")
-#master = mavutil.mavlink_connection('udpin:0.0.0.0:14550') #Windows SITL
-master = mavutil.mavlink_connection('/dev/serial0', baud=921600) #RPi
+master = mavutil.mavlink_connection('udpin:0.0.0.0:14550') #Windows SITL
+#master = mavutil.mavlink_connection('/dev/serial0', baud=921600) #RPi
 master.wait_heartbeat()
 print(f"[SYSTEM] Connected: sys={master.target_system}, comp={master.target_component}")
 #-------------------------------------------------------
@@ -659,13 +661,14 @@ try:
     mission.clear_mission()
     #----------------------------------------------------
     
+ 
     #Initialise Position and create Nest Estimator and Simulator Classes
     #-----------------------------------------------------------------------
     lat0,lon0,heading0=mission.get_current_pose()
     sim=NestSimulator(lat0, lon0)
     Nest=NestEstimator(lat0, lon0)
     
-    true_lat, true_lon=sim.place_set_nest(40, 60)
+    true_lat, true_lon=sim.place_set_nest(-30, 20) #(East, North (m))
     #-----------------------------------------------------------------------
     
     
@@ -714,6 +717,7 @@ try:
         print("-----------------------------------------------------------") 
         label=f"M{i}"
         
+ 
         lat,lon,heading=mission.get_current_pose()
         dt, bearing, bearing_std = sim.sample_dt_and_bearing(lat, lon,heading)
         Nest.add_measurement(lat, lon,heading,bearing,bearing_std, dt, label)

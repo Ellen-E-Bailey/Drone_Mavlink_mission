@@ -399,7 +399,7 @@ class NestSimulator:
         return out
 
 def get_pose(): #Replace with AutoMission() get_pose
-    lat,lon,heading=45,56,0
+    lat,lon,heading=45,56,10
     return lat,lon,heading
 
 Num_measurements=[]
@@ -415,7 +415,7 @@ for its in range(iterations):
     Nest=NestEstimator(lat0, lon0)
     sim = NestSimulator(lat0, lon0)
     #true_lat,true_lon=sim.place_random_nest(radius=800,min_radius=100)
-    true_lat, true_lon=sim.place_set_nest(-30, 40)
+    true_lat, true_lon=sim.place_set_nest(-30, 20)
     sign=1
     #Measurement 1
     label="M1"
