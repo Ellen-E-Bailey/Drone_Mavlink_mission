@@ -22,13 +22,13 @@ class NestEstimator:
         #Hornet speed values from Hornet Handbook, Dr. Sarah Bunker 2022
         self.u_mean = 5.36 #mean flight speed
         self.u_std = 1.825 #deviation from flight speed
-        self.path_std = 70 #Tune this uncertainty (based of Rojas-Nossa)
+        self.path_std = 50 #Tune this uncertainty (based of Rojas-Nossa)
         self.t_n=45 #unloading time (how long hornets spend at nest)
 
         self.grid_size = grid_size
         self.span = span #Foraging distance of hornet
         self.certainty_limit=0.98
-        self.nest_error=800
+        self.nest_error=10
 
         x = np.linspace(-span, span, grid_size)
         y = np.linspace(-span, span, grid_size)
@@ -696,7 +696,7 @@ try:
     mission.upload_waypoint_and_land(lat, lon)
     
     #CHECK IF LANDED AT WAYPOINT BEFORE CONTINUING
-    ok = mission.wait_for_start_then_disarm(final_seq=None, overall_timeout=200, per_recv_timeout=5.0)
+    ok = mission.wait_for_start_then_disarm(final_seq=None, overall_timeout=300, per_recv_timeout=5.0)
     if not ok:
         print("Mission did not complete within timeout; handle retry/abort.")
     else:
