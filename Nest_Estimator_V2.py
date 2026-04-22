@@ -415,7 +415,7 @@ for its in range(iterations):
     Nest=NestEstimator(lat0, lon0)
     sim = NestSimulator(lat0, lon0)
     #true_lat,true_lon=sim.place_random_nest(radius=800,min_radius=100)
-    true_lat, true_lon=sim.place_set_nest(60, 100)
+    true_lat, true_lon=sim.place_set_nest(-30, 40)
     sign=1
     #Measurement 1
     label="M1"
