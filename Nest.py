@@ -623,7 +623,7 @@ class AutoMission:
                 else:
                     # keep output minimal but visible
                     lat,lon,heading=self.get_current_pose()
-                    #print(lat,lon,heading)
+                    print(lat,lon,heading)
                     #print(f"[TELEM] {mtype}")
 
             # check disarm state after consuming messages
@@ -696,7 +696,7 @@ try:
     mission.upload_waypoint_and_land(lat, lon)
     
     #CHECK IF LANDED AT WAYPOINT BEFORE CONTINUING
-    ok = mission.wait_for_start_then_disarm(final_seq=None, overall_timeout=600, per_recv_timeout=5.0)
+    ok = mission.wait_for_start_then_disarm(final_seq=None, overall_timeout=200, per_recv_timeout=5.0)
     if not ok:
         print("Mission did not complete within timeout; handle retry/abort.")
     else:
