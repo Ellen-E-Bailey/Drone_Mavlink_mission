@@ -15,18 +15,18 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 class NestEstimator:
-    def __init__(self, lat0, lon0, grid_size=600, span=200):
+    def __init__(self, lat0, lon0, grid_size=1500, span=1000):
         self.lat0 = lat0
         self.lon0 = lon0
 
         #Hornet speed values from Hornet Handbook, Dr. Sarah Bunker 2022
         self.u_mean = 5.36 #mean flight speed
         self.u_std = 1.825 #deviation from flight speed
-        self.path_std = 50 #Tune this uncertainty (based of Rojas-Nossa)
+        self.path_std = 200 #Tune this uncertainty 
         self.t_n=45 #unloading time (how long hornets spend at nest)
 
         self.grid_size = grid_size
-        self.span = span #Foraging distance of hornet
+        self.span = span #Foraging distance of hornet + extra to avoid cutoff
         self.certainty_limit=0.98
         self.nest_error=10
 
@@ -199,36 +199,10 @@ class NestEstimator:
         return x_m, y_m, int(row), int(col), float(P_norm[row, col])
     
     
-    
-    def get_closest_minimum(self):
-        P_norm = self.P / np.max(self.P)
-        mins=self.get_map_mins_xy()
-        maximum=self.get_map_max_xy()
-        max_x, max_y, _, _, _ = maximum
-        min_x, min_y, _, _, _ = mins        
-        dist = m.hypot(max_x - min_x, max_y - min_y)
-        minimum=np.min(dist)
-        idx=np.where(dist>=minimum)[0][0]
-        row, col = np.unravel_index(idx, P_norm.shape)
-        x_m = float(self.X[row, col])
-        y_m = float(self.Y[row, col])
-        return x_m, y_m
-    
     def get_nest_error(self):
         return self.nest_error
 
-    def _local_minima_mask(self, P_norm):
-        pad = np.pad(P_norm, pad_width=1, mode='constant', constant_values=np.inf)
-        center = pad[1:-1, 1:-1]
-        neighs = [
-            pad[0:-2, 0:-2], pad[0:-2, 1:-1], pad[0:-2, 2:],
-            pad[1:-1, 0:-2],                 pad[1:-1, 2:],
-            pad[2:  , 0:-2], pad[2:  , 1:-1], pad[2:  , 2:]
-        ]
-        comp = np.ones_like(center, dtype=bool)
-        for n in neighs:
-            comp &= (center < n)
-        return comp
+
 
     def _confidence_area_radius(self, P_norm, confidence_level=0.30):
         mask = (P_norm >= confidence_level)
@@ -238,7 +212,7 @@ class NestEstimator:
         area = mask.sum() * cell_area
         return m.sqrt(area / m.pi)
 
- 
+
     
     def get_nest_location(self):
         mm=self.get_map_max_xy()
@@ -259,7 +233,7 @@ class NestEstimator:
         #Find value of probability at each corner point
         combs = [(Xmaxi, Ymaxi), (Xmini, Ymaxi), (Xmini, Ymini), (Xmaxi, Ymini)]
         vals = [P_norm[comb] for comb in combs]
-        #Most diagonal point is likely to be corner point with highest probability (bodge)
+        #Most diagonal point is assumed to be corner point with highest probability (increase computational efficiency)
         diag_point_1 = vals.index(max(vals))
         #Find other diagonal point
         if diag_point_1 == 0 or diag_point_1 == 2:
@@ -400,14 +374,14 @@ class NestSimulator:
             u = self.u_mean
 
         # path noise (models extra path length due to meandering)
-        extra_path = abs(self.rng.normal(0.0, self.path_std))
+        extra_path = abs(self.rng.normal(-50, self.path_std))
 
         # round-trip time: unloading + travel out + travel back + small measurement noise
         travel_time = 2.0 * (dist + extra_path) / u
-        dt = self.t_n + travel_time + self.rng.normal(0.0, dt_noise_std)
+        dt = self.t_n + travel_time + self.rng.normal(-dt_noise_std, dt_noise_std)
 
         # measured bearing with noise
-        meas_bearing_abs = true_bearing + self.rng.normal(0.0, bearing_noise_std)
+        meas_bearing_abs = true_bearing + self.rng.normal(-bearing_noise_std, bearing_noise_std)
         meas_bearing = (meas_bearing_abs - drone_heading + 180.0) % 360.0 - 180.0
 
     
@@ -444,36 +418,7 @@ class AutoMission:
         msg = self.master.recv_match(type='GLOBAL_POSITION_INT', blocking=True)
         return msg.lat / 1e7, msg.lon / 1e7, msg.relative_alt / 1000.0
 
-    def compute_global_waypoint(self, bearing_deg, distance_m):
-        """
-        - ATTITUDE.yaw ≈ 0° when pointing North
-        - positive yaw clockwise
-        - bearing_deg: clockwise from nose
-        """
-        lat0, lon0, alt0 = self.get_global_position()
 
-        att = self.master.recv_match(type='ATTITUDE', blocking=True)
-        yaw_deg = m.degrees(att.yaw)
-
-        move_heading_deg = (yaw_deg + bearing_deg) % 360.0
-        move_heading_rad = m.radians(move_heading_deg)
-
-        dN = distance_m * m.cos(move_heading_rad)
-        dE = distance_m * m.sin(move_heading_rad)
-
-        R = 6378137.0
-        d_lat = dN / R
-        d_lon = dE / (R * m.cos(m.radians(lat0)))
-
-        lat_target = lat0 + m.degrees(d_lat)
-        lon_target = lon0 + m.degrees(d_lon)
-        alt_target = alt0
-
-        print(f"[MISSION] yaw={yaw_deg:.1f}°, bearing={bearing_deg:.1f}°, move={move_heading_deg:.1f}°")
-        print(f"[MISSION] dN={dN:.2f}, dE={dE:.2f}")
-        print(f"[MISSION] Target lat={lat_target:.7f}, lon={lon_target:.7f}, alt={alt_target:.1f}")
-
-        return lat_target, lon_target, alt_target
 
     def upload_waypoint_and_land(self, lat, lon, alt=0):
         print("[MISSION] Uploading waypoint + LAND mission…")
@@ -621,7 +566,7 @@ class AutoMission:
                     res = int(getattr(msg, 'result', -1))
                     print(f"[MISSION] COMMAND_ACK cmd={cmd} result={res}")
                 else:
-                    # keep output minimal but visible
+                  
                     lat,lon,heading=self.get_current_pose()
                     print(lat,lon,heading)
                     #print(f"[TELEM] {mtype}")
@@ -642,13 +587,13 @@ class AutoMission:
 
 
 
-            
+t.sleep(7)
 
 #CONNECT TO FLIGHT CONTROLLER
 #-------------------------------------------------------
 print("[SYSTEM] Connecting to FC…")
-#master = mavutil.mavlink_connection('udpin:0.0.0.0:14550') #Windows SITL
-master = mavutil.mavlink_connection('/dev/serial0', baud=921600) #RPi
+master = mavutil.mavlink_connection('udpin:0.0.0.0:14550') #Windows SITL
+#master = mavutil.mavlink_connection('/dev/serial0', baud=921600) #RPi
 master.wait_heartbeat()
 print(f"[SYSTEM] Connected: sys={master.target_system}, comp={master.target_component}")
 #-------------------------------------------------------
@@ -668,7 +613,8 @@ try:
     sim=NestSimulator(lat0, lon0)
     Nest=NestEstimator(lat0, lon0)
     
-    true_lat, true_lon=sim.place_set_nest(-20, 15) #(East, North (m))
+    #true_lat, true_lon=sim.place_set_nest(-20, 15) #(East, North (m)) #Place a nest in a set location
+    true_lat,true_lon=sim.place_random_nest(radius=800,min_radius=100) #Place a random nest
     #-----------------------------------------------------------------------
     
     

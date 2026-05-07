@@ -16,11 +16,11 @@ import matplotlib.pyplot as plt
 
 
 class NestEstimator:
-    def __init__(self, lat0, lon0, grid_size=600, span=200):
+    def __init__(self, lat0, lon0, grid_size=1500, span=1000):
         self.lat0 = lat0
         self.lon0 = lon0
 
-        #Hornet speed values from Hornet Handbook, Dr. Sarah Bunker 2022
+        #Hornet speed values from Hornet Handbook, Dr. Sarah Bunker 2022 and Lioy et al.
         self.u_mean = 5.36 #mean flight speed
         self.u_std = 1.825 #deviation from flight speed
         self.path_std = 200 #Tune this uncertainty (based of Rojas-Nossa)
@@ -117,7 +117,7 @@ class NestEstimator:
         return Area
     
 
-    def save_plot(self, filename,true_nest=None,show=True,save=True):
+    def save_plot(self, filename,true_nest=None,show=True,save=True,ext_points=None):
         P_norm = self.P / np.max(self.P)
 
         plt.figure(figsize=(8, 6))
@@ -163,9 +163,13 @@ class NestEstimator:
         
         plt.xlabel("East (m)")
         plt.ylabel("North (m)")
-        plt.title(f"Probability Field at {datetime.now().strftime('%Y%m%d_%H%M%S')}")
+        #plt.title(f"Probability Field at {datetime.now().strftime('%Y%m%d_%H%M%S')}")
+        plt.title("Probability Field")
         plt.axis('equal')
         plt.tight_layout()
+        if ext_points is not None:
+            plt.scatter(ext_points[0][0],ext_points[0][1])
+            plt.scatter(ext_points[1][0],ext_points[1][1])
         if save:
             plt.savefig(filename, dpi=200)
         
@@ -282,7 +286,7 @@ class NestEstimator:
         waypoint_lat, waypoint_lon = self.xy_to_latlon(tx, ty, self.lat0, self.lon0)
         heading_abs = m.degrees(m.atan2(dx, dy)) % 360.0
         
-        return float(waypoint_lat), float(waypoint_lon), (tx, ty), dist, heading_abs
+        return float(waypoint_lat), float(waypoint_lon), (tx, ty), dist, heading_abs, ext_points
         
 
 class NestSimulator:
@@ -371,14 +375,14 @@ class NestSimulator:
             u = self.u_mean
 
         # path noise (models extra path length due to meandering)
-        extra_path = abs(self.rng.normal(0.0, self.path_std))
+        extra_path = abs(self.rng.normal(-50, self.path_std))
 
         # round-trip time: unloading + travel out + travel back + small measurement noise
         travel_time = 2.0 * (dist + extra_path) / u
-        dt = self.t_n + travel_time + self.rng.normal(0.0, dt_noise_std)
+        dt = self.t_n + travel_time + self.rng.normal(-dt_noise_std, dt_noise_std)
 
         # measured bearing with noise
-        meas_bearing_abs = true_bearing + self.rng.normal(0.0, bearing_noise_std)
+        meas_bearing_abs = true_bearing + self.rng.normal(-bearing_noise_std, bearing_noise_std)
         meas_bearing = (meas_bearing_abs - drone_heading + 180.0) % 360.0 - 180.0 #relative to drone nose
         
     
@@ -415,7 +419,7 @@ for its in range(iterations):
     Nest=NestEstimator(lat0, lon0)
     sim = NestSimulator(lat0, lon0)
     #true_lat,true_lon=sim.place_random_nest(radius=800,min_radius=100)
-    true_lat, true_lon=sim.place_set_nest(-30, 20)
+    true_lat, true_lon=sim.place_set_nest(500, 500)
     sign=1
     #Measurement 1
     label="M1"
@@ -432,11 +436,11 @@ for its in range(iterations):
     print("Area of certainty: ", Area)
     
     #New Position based on low probability region
-    lat,lon,t_xy, dist_move, heading_next=Nest.get_waypoint(lat0, lon0,confidence_level=0.7,ang=100/sign)
+    lat,lon,t_xy, dist_move, heading_next,ext_points=Nest.get_waypoint(lat0, lon0,confidence_level=0.7,ang=100/sign)
     folder = f"Probability_Plots/{datetime.now().strftime('%Y%m%d_%H%M%S')}/"
     if save:       
         os.makedirs(folder, exist_ok=True)
-    Nest.save_plot(folder+"M1",save=save,true_nest=(true_lat,true_lon))
+    Nest.save_plot(folder+"M1",save=save,true_nest=(true_lat,true_lon),ext_points=ext_points)
 
     print("Next drone Location: ", lat,lon)
     
@@ -447,7 +451,7 @@ for its in range(iterations):
     Total_distance+=dist_move
     heading=heading_next
    
-    while ( Area>10 and i<30):
+    while ( Area>10 and i<3):
         print("----------------------------------------------------------")
         print(f"Measurement {i}")
         print("-----------------------------------------------------------") 
@@ -469,9 +473,10 @@ for its in range(iterations):
         
         Area=Nest.check_certainty(confidence=0.95)
         print("Area of certainty: ", Area)
-        Nest.save_plot(folder+f"M{i}",save=save,true_nest=(true_lat,true_lon))
-        lat,lon,t_xy, dist_move,heading_next=Nest.get_waypoint(lat,lon, confidence_level=0.7,ang=100/sign)
-   
+        
+        lat,lon,t_xy, dist_move,heading_next,ext_points_2=Nest.get_waypoint(lat,lon, confidence_level=0.7,ang=100/sign)
+        
+        Nest.save_plot(folder+f"M{i}",save=save,true_nest=(true_lat,true_lon),ext_points=ext_points)
         # 4) MOVE DRONE
         Total_distance += dist_move         
         print("Next drone Location: ", lat,lon)
