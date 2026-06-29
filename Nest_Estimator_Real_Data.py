@@ -413,6 +413,42 @@ def get_pose(): #Replace with AutoMission() get_pose
     return lat,lon,heading
 
 def Add_Data(Nest,lat,lon,drone_heading,heading, heading_std, dt, label):
+    """
+    Returns the next best baiting location in lat and long for automated movement
+    retruns the radial coordinate from current position for manual movement (deg, m)
+    """
+
+    Parameters
+    ----------
+    Nest : TYPE
+        DESCRIPTION.
+    lat : TYPE
+        DESCRIPTION.
+    lon : TYPE
+        DESCRIPTION.
+    drone_heading : TYPE
+        DESCRIPTION.
+    heading : TYPE
+        DESCRIPTION.
+    heading_std : TYPE
+        DESCRIPTION.
+    dt : TYPE
+        DESCRIPTION.
+    label : TYPE
+        DESCRIPTION.
+
+    Returns
+    -------
+    lat : TYPE
+        DESCRIPTION.
+    lon : TYPE
+        DESCRIPTION.
+    heading_next : TYPE
+        DESCRIPTION.
+    dist_move : TYPE
+        DESCRIPTION.
+
+    """
     Nest.add_measurement(lat,lon,drone_heading,heading, heading_std, dt, label)
     Area=Nest.check_certainty()
     print("Area of certainty: ", Area)
@@ -422,7 +458,7 @@ def Add_Data(Nest,lat,lon,drone_heading,heading, heading_std, dt, label):
     if save:       
         os.makedirs(folder, exist_ok=True)
     Nest.save_plot(folder+"M1",save=save)
-    
+    return lat,lon, heading_next, dist_move
 
 sign=-1
 save=False #if true saves timestamped probability plots
@@ -444,7 +480,7 @@ lat,lon,drone_heading=0,0,10
 #Measurements
 dt, heading, heading_std = 300,14,30
 
-Add_Data(Nest, lat, lon, drone_heading, heading, heading_std, dt, label)
+lat_nxt, lon_nxt, Heading_nxt,dist_nxt=Add_Data(Nest, lat, lon, drone_heading, heading, heading_std, dt, label)
 
 #--------------------------------------------------------------
 
