@@ -480,6 +480,7 @@ Add_Data(Nest, lat, lon, drone_heading, heading, heading_std, dt, label)
 #--------------------------------------------------------------
 #FINAL
 lat_est,long_est=Nest.get_nest_location()
+print("Estimated Nest: ", lat_est, long_est)
 
 
 
