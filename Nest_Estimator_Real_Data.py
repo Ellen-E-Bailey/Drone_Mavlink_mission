@@ -434,7 +434,7 @@ Nest=NestEstimator(lat0, lon0)
 
 #------------------------------
 
-#MEASUREMENT 1
+#MEASUREMENT 1 (example with all data)
 #----------------------------
 label="M1"
 
@@ -448,7 +448,7 @@ Add_Data(Nest, lat, lon, drone_heading, heading, heading_std, dt, label)
 
 #--------------------------------------------------------------
 
-#MEASUREMENT 2
+#MEASUREMENT 2 (example with just heading)
 #----------------------------
 label="M2"
 
@@ -463,7 +463,7 @@ Add_Data(Nest, lat, lon, drone_heading, heading, heading_std, dt, label)
 #--------------------------------------------------------------
 
 
-#MEASUREMENT 3
+#MEASUREMENT 3 (Example with just time)
 #----------------------------
 label="M3"
 
